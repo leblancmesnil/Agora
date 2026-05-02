@@ -4,10 +4,11 @@
   "scripts": {
     "ng": "ng",
     "prebuild": "node scripts/build-propositions.js",
+    "postbuild": "node -e \"const fs=require('fs'),b='dist/Programme/browser';fs.copyFileSync(b+'/index.html',b+'/404.html');fs.writeFileSync(b+'/.nojekyll','')\"",
     "prestart": "node scripts/build-propositions.js",
     "start": "ng serve",
     "build": "ng build",
-    "deploy": "ng build && npx gh-pages -d dist/Programme/browser",
+    "deploy": "npm run build && npx gh-pages -d dist/Programme/browser --dotfiles",
     "build:propositions": "node scripts/build-propositions.js",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
