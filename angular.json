@@ -58,7 +58,7 @@
               {
                 "glob": "**/*.md",
                 "input": "content/propositions",
-                "output": "propositions"
+                "output": "assets/propositions"
               }
             ],
             "styles": [

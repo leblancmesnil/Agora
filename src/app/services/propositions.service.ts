@@ -18,10 +18,14 @@ export class PropositionsService {
     return this.data$;
   }
 
-  /** Fetch and parse a single .md file — the single source of truth for body content */
+  /** Get a single proposition (body included) from the generated JSON index */
   getPropositionMarkdown(slug: string): Observable<Proposition> {
-    return this.http.get(`propositions/${slug}.md`, { responseType: 'text' }).pipe(
-      map(raw => this.parseMarkdown(raw, slug))
+    return this.getData().pipe(
+      map(data => {
+        const found = data.propositions.find(p => p.slug === slug);
+        if (!found) throw new Error('Not found');
+        return found as Proposition;
+      })
     );
   }
 

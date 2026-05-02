@@ -72,7 +72,8 @@ function buildIndex() {
       polisId: parsed.polisId || '',
       statut: parsed.statut || 'publiée',
       slug: file.replace('.md', ''),
-      // body is NOT included — fetched directly from the .md file at runtime
+      // Include the body in the JSON so the app can load proposition details
+      body: parsed.body || ''
     };
 
     propositions.push(proposition);
