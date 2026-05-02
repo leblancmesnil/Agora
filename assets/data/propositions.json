@@ -1,0 +1,3990 @@
+{
+  "meta": {
+    "generatedAt": "2026-05-02T14:40:24.109Z",
+    "count": 220
+  },
+  "categories": [
+    {
+      "id": 1,
+      "titre": "Gouvernance, éthique et exemplarité",
+      "icone": "🏛️"
+    },
+    {
+      "id": 2,
+      "titre": "Logement et urbanisme",
+      "icone": "🏗️"
+    },
+    {
+      "id": 3,
+      "titre": "Sécurité, prévention et tranquillité publique",
+      "icone": "🛡️"
+    },
+    {
+      "id": 4,
+      "titre": "Santé et accès aux soins",
+      "icone": "🏥"
+    },
+    {
+      "id": 5,
+      "titre": "Égalité, lutte contre les discriminations",
+      "icone": "⚖️"
+    },
+    {
+      "id": 6,
+      "titre": "Solidarité, action sociale et famille",
+      "icone": "🤝"
+    },
+    {
+      "id": 7,
+      "titre": "Enfance et éducation",
+      "icone": "📚"
+    },
+    {
+      "id": 8,
+      "titre": "Jeunesse, insertion et émancipation",
+      "icone": "🚀"
+    },
+    {
+      "id": 9,
+      "titre": "Emploi, entrepreneuriat et commerce local",
+      "icone": "💼"
+    },
+    {
+      "id": 10,
+      "titre": "Mobilités et transports",
+      "icone": "🚌"
+    },
+    {
+      "id": 11,
+      "titre": "Culture, sport et vie associative",
+      "icone": "🎭"
+    },
+    {
+      "id": 12,
+      "titre": "Seniors, handicap et intergénérationnel",
+      "icone": "👴"
+    },
+    {
+      "id": 13,
+      "titre": "Écologie, cadre de vie et protection animale",
+      "icone": "🌿"
+    },
+    {
+      "id": 14,
+      "titre": "Prévention des risques et résilience",
+      "icone": "⚠️"
+    },
+    {
+      "id": 15,
+      "titre": "Démocratie locale, finances et transparence",
+      "icone": "🗳️"
+    }
+  ],
+  "tags": [
+    "100-jours",
+    "ZAC",
+    "accessibilité",
+    "accompagnement",
+    "accès",
+    "addictions",
+    "administration",
+    "aidants",
+    "alimentation",
+    "animaux",
+    "art",
+    "associations",
+    "autonomie",
+    "budget",
+    "cadre-de-vie",
+    "calendrier",
+    "climat",
+    "commerce",
+    "coordination",
+    "copropriété",
+    "coworking",
+    "culture",
+    "données",
+    "démocratie",
+    "eau",
+    "emploi",
+    "enfance",
+    "engagement",
+    "entrepreneuriat",
+    "espaces-verts",
+    "excellence",
+    "famille",
+    "femmes",
+    "financement",
+    "finances",
+    "formation",
+    "gouvernance",
+    "grand-paris",
+    "grand-projet",
+    "handicap",
+    "harcèlement",
+    "incivilités",
+    "indicateurs",
+    "information",
+    "insertion",
+    "intergénérationnel",
+    "isolement",
+    "jeunesse",
+    "langues",
+    "lecture",
+    "logement",
+    "loisirs",
+    "marchés-publics",
+    "mentorat",
+    "mobilité",
+    "médecins",
+    "médiation",
+    "méthode",
+    "numérique",
+    "outils",
+    "partenariats",
+    "participation",
+    "petite-enfance",
+    "police",
+    "pouvoir-achat",
+    "pouvoir-d-achat",
+    "programme",
+    "projets",
+    "propreté",
+    "proximité",
+    "prévention",
+    "périscolaire",
+    "quartier",
+    "rénovation",
+    "résilience",
+    "santé",
+    "santé-mentale",
+    "seniors",
+    "sensibilisation",
+    "services",
+    "social",
+    "soins",
+    "solidarité",
+    "sport",
+    "sécurité",
+    "sécurité-civile",
+    "transparence",
+    "transport",
+    "transports-commun",
+    "transversal",
+    "urbanisme",
+    "urgence",
+    "végétalisation",
+    "vélo",
+    "éclairage",
+    "école",
+    "écologie",
+    "économie",
+    "économie-circulaire",
+    "éducation",
+    "égalité",
+    "énergie",
+    "éthique",
+    "évaluation",
+    "événements"
+  ],
+  "propositions": [
+    {
+      "id": 1,
+      "titre": "Suivi public des engagements",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "transparence",
+        "numérique",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "6mmjcabtm3",
+      "statut": "publiée",
+      "slug": "001-suivi-public-des-engagements"
+    },
+    {
+      "id": 2,
+      "titre": "Bilans annuels citoyens par quartier",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "participation",
+        "quartier",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "7jypdmmhzu",
+      "statut": "publiée",
+      "slug": "002-bilans-annuels-citoyens-par-quartier"
+    },
+    {
+      "id": 3,
+      "titre": "Transparence budgétaire renforcée",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "transparence",
+        "finances",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "5wxrtjpbdw",
+      "statut": "publiée",
+      "slug": "003-transparence-budgetaire-renforcee"
+    },
+    {
+      "id": 4,
+      "titre": "Charte éthique des élus municipaux",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "éthique",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "4hsrz2rnpv",
+      "statut": "publiée",
+      "slug": "004-charte-ethique-des-elus-municipaux"
+    },
+    {
+      "id": 5,
+      "titre": "Participation citoyenne permanente",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "participation",
+        "démocratie",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "9s5szj7hdc",
+      "statut": "publiée",
+      "slug": "005-participation-citoyenne-permanente"
+    },
+    {
+      "id": 6,
+      "titre": "Publication transparente des marchés publics",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "transparence",
+        "marchés-publics",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "2mbf3c6cme",
+      "statut": "publiée",
+      "slug": "006-publication-transparente-des-marches-publics"
+    },
+    {
+      "id": 7,
+      "titre": "Droit d'interpellation citoyenne",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "participation",
+        "démocratie",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "5xxxejrj28",
+      "statut": "publiée",
+      "slug": "007-droit-d-interpellation-citoyenne"
+    },
+    {
+      "id": 8,
+      "titre": "Conseils municipaux ouverts et compréhensibles",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "transparence",
+        "démocratie",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "4kyhveh2rj",
+      "statut": "publiée",
+      "slug": "008-conseils-municipaux-ouverts-et-comprehensibles"
+    },
+    {
+      "id": 9,
+      "titre": "Comité citoyen des grands projets",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "participation",
+        "projets",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "8yxxe3drzw",
+      "statut": "publiée",
+      "slug": "009-comite-citoyen-des-grands-projets"
+    },
+    {
+      "id": 10,
+      "titre": "Plan pluriannuel d'investissement transparent",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "transparence",
+        "finances",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "89sayj4eie",
+      "statut": "publiée",
+      "slug": "010-plan-pluriannuel-d-investissement-transparent"
+    },
+    {
+      "id": 11,
+      "titre": "Formation continue des élus et des cadres",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "formation",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "011-formation-continue-des-elus-et-des-cadres"
+    },
+    {
+      "id": 12,
+      "titre": "Évaluation indépendante à mi-mandat",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "évaluation",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "012-evaluation-independante-a-mi-mandat"
+    },
+    {
+      "id": 13,
+      "titre": "Transparence des attributions de logements",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "transparence",
+        "logement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "013-transparence-des-attributions-de-logements"
+    },
+    {
+      "id": 14,
+      "titre": "Commission municipale renforcée du logement",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "gouvernance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "014-commission-municipale-renforcee-du-logement"
+    },
+    {
+      "id": 15,
+      "titre": "Guichet unique du logement",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "services",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "015-guichet-unique-du-logement"
+    },
+    {
+      "id": 16,
+      "titre": "Suivi personnalisé des dossiers",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "services",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "016-suivi-personnalise-des-dossiers"
+    },
+    {
+      "id": 17,
+      "titre": "Régulation du marché locatif",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "économie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "017-regulation-du-marche-locatif"
+    },
+    {
+      "id": 18,
+      "titre": "Audit du parc immobilier dégradé",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "rénovation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "018-audit-du-parc-immobilier-degrade"
+    },
+    {
+      "id": 19,
+      "titre": "Audit des constructions massives",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "urbanisme",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "019-audit-des-constructions-massives"
+    },
+    {
+      "id": 20,
+      "titre": "Plan prioritaire des ascenseurs et parties communes",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "rénovation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "020-plan-prioritaire-des-ascenseurs-et-parties-communes"
+    },
+    {
+      "id": 21,
+      "titre": "Programme municipal de rénovation énergétique",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "énergie",
+        "écologie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "021-programme-municipal-de-renovation-energetique"
+    },
+    {
+      "id": 22,
+      "titre": "Cellule de lutte contre l'habitat indigne",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "sécurité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "022-cellule-de-lutte-contre-l-habitat-indigne"
+    },
+    {
+      "id": 23,
+      "titre": "Dispositif de relogement d'urgence",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "urgence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "023-dispositif-de-relogement-d-urgence"
+    },
+    {
+      "id": 24,
+      "titre": "Plan grand froid",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "urgence",
+        "solidarité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "024-plan-grand-froid"
+    },
+    {
+      "id": 25,
+      "titre": "Charte municipale des promoteurs",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "urbanisme",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "025-charte-municipale-des-promoteurs"
+    },
+    {
+      "id": 26,
+      "titre": "Conseil municipal des syndicats de copropriétaires",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "logement",
+        "copropriété",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "026-conseil-municipal-des-syndicats-de-coproprietaires"
+    },
+    {
+      "id": 27,
+      "titre": "Révision concertée du Plan Local d'Urbanisme",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "urbanisme",
+        "participation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "027-revision-concertee-du-plan-local-d-urbanisme"
+    },
+    {
+      "id": 28,
+      "titre": "Accompagnement des nouvelles stations de métro (Grand Paris Express)",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "urbanisme",
+        "transport",
+        "grand-paris",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "028-accompagnement-des-nouvelles-stations-de-metro-grand-paris-express"
+    },
+    {
+      "id": 29,
+      "titre": "Dynamisation des places et espaces urbains",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏠",
+      "tags": [
+        "urbanisme",
+        "cadre-de-vie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "029-dynamisation-des-places-et-espaces-urbains"
+    },
+    {
+      "id": 30,
+      "titre": "Renforcement de la police municipale",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "police",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "030-renforcement-de-la-police-municipale"
+    },
+    {
+      "id": 31,
+      "titre": "Déploiement des patrouilles de proximité",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "proximité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "031-deploiement-des-patrouilles-de-proximite"
+    },
+    {
+      "id": 32,
+      "titre": "Formation renforcée à la médiation",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "médiation",
+        "formation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "032-formation-renforcee-a-la-mediation"
+    },
+    {
+      "id": 33,
+      "titre": "Coordination renforcée avec la police nationale",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "coordination",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "033-coordination-renforcee-avec-la-police-nationale"
+    },
+    {
+      "id": 34,
+      "titre": "Plan municipal d'éclairage public",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "éclairage",
+        "cadre-de-vie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "034-plan-municipal-d-eclairage-public"
+    },
+    {
+      "id": 35,
+      "titre": "Sécurisation des abords scolaires",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "école",
+        "enfance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "035-securisation-des-abords-scolaires"
+    },
+    {
+      "id": 36,
+      "titre": "Réseau de médiateurs de quartier",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "médiation",
+        "quartier",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "036-reseau-de-mediateurs-de-quartier"
+    },
+    {
+      "id": 37,
+      "titre": "Point municipal d'écoute et d'accompagnement",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "accompagnement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "037-point-municipal-d-ecoute-et-d-accompagnement"
+    },
+    {
+      "id": 38,
+      "titre": "Plan local contre les violences faites aux femmes",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "égalité",
+        "femmes",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "038-plan-local-contre-les-violences-faites-aux-femmes"
+    },
+    {
+      "id": 39,
+      "titre": "Lutte contre les incivilités du quotidien – sécurisation des parkings",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "incivilités",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "039-lutte-contre-les-incivilites-du-quotidien-securisation-des-parkings"
+    },
+    {
+      "id": 40,
+      "titre": "Sécurisation des halls et parties communes",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "logement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "040-securisation-des-halls-et-parties-communes"
+    },
+    {
+      "id": 41,
+      "titre": "Prévention du décrochage et de la délinquance",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "prévention",
+        "jeunesse",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "041-prevention-du-decrochage-et-de-la-delinquance"
+    },
+    {
+      "id": 42,
+      "titre": "Actions contre les conduites à risque",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "prévention",
+        "santé",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "042-actions-contre-les-conduites-a-risque"
+    },
+    {
+      "id": 43,
+      "titre": "Bilan annuel de sécurité",
+      "categorie": "Sécurité, prévention et tranquillité publique",
+      "categorie_id": 3,
+      "icone": "🛡️",
+      "tags": [
+        "sécurité",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "043-bilan-annuel-de-securite"
+    },
+    {
+      "id": 44,
+      "titre": "Maison de santé pluridisciplinaire 360",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "soins",
+        "accès",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "044-maison-de-sante-pluridisciplinaire-360"
+    },
+    {
+      "id": 45,
+      "titre": "Plan municipal d'attractivité médicale",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "médecins",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "045-plan-municipal-d-attractivite-medicale"
+    },
+    {
+      "id": 46,
+      "titre": "Déploiement de cabinets de proximité",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "proximité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "046-deploiement-de-cabinets-de-proximite"
+    },
+    {
+      "id": 47,
+      "titre": "Mutuelle communale",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "solidarité",
+        "pouvoir-achat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "047-mutuelle-communale"
+    },
+    {
+      "id": 48,
+      "titre": "Accueil structuré des jeunes professionnels de santé",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "jeunesse",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "048-accueil-structure-des-jeunes-professionnels-de-sante"
+    },
+    {
+      "id": 49,
+      "titre": "Partenariats durables avec les hôpitaux et universités",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "partenariats",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "049-partenariats-durables-avec-les-hopitaux-et-universites"
+    },
+    {
+      "id": 50,
+      "titre": "Déploiement de centres de dépistage mobiles",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "prévention",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "050-deploiement-de-centres-de-depistage-mobiles"
+    },
+    {
+      "id": 51,
+      "titre": "Programme municipal de prévention santé",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "prévention",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "051-programme-municipal-de-prevention-sante"
+    },
+    {
+      "id": 52,
+      "titre": "Dispositif local de santé mentale",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "santé-mentale",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "052-dispositif-local-de-sante-mentale"
+    },
+    {
+      "id": 53,
+      "titre": "Parcours d'accompagnement des maladies chroniques",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "accompagnement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "053-parcours-d-accompagnement-des-maladies-chroniques"
+    },
+    {
+      "id": 54,
+      "titre": "Plan local de lutte contre les addictions",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "prévention",
+        "addictions",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "054-plan-local-de-lutte-contre-les-addictions"
+    },
+    {
+      "id": 55,
+      "titre": "Développement encadré de la télémédecine",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "numérique",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "055-developpement-encadre-de-la-telemedecine"
+    },
+    {
+      "id": 56,
+      "titre": "Information claire et continue sur l'offre de soins",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "information",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "056-information-claire-et-continue-sur-l-offre-de-soins"
+    },
+    {
+      "id": 57,
+      "titre": "Soutien structuré aux aidants familiaux",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "aidants",
+        "solidarité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "057-soutien-structure-aux-aidants-familiaux"
+    },
+    {
+      "id": 58,
+      "titre": "Observatoire municipal de la santé",
+      "categorie": "Santé et accès aux soins",
+      "categorie_id": 4,
+      "icone": "🏥",
+      "tags": [
+        "santé",
+        "données",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "058-observatoire-municipal-de-la-sante"
+    },
+    {
+      "id": 59,
+      "titre": "Plan municipal pour l'égalité femmes-hommes",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "femmes",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "059-plan-municipal-pour-l-egalite-femmes-hommes"
+    },
+    {
+      "id": 60,
+      "titre": "Cellule municipale de lutte contre les violences faites aux femmes",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "femmes",
+        "sécurité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "060-cellule-municipale-de-lutte-contre-les-violences-faites-aux-femmes"
+    },
+    {
+      "id": 61,
+      "titre": "Parcours d'accompagnement global des victimes",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "accompagnement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "061-parcours-d-accompagnement-global-des-victimes"
+    },
+    {
+      "id": 62,
+      "titre": "Renforcement des lieux d'accueil sécurisés",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "sécurité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "062-renforcement-des-lieux-d-accueil-securises"
+    },
+    {
+      "id": 63,
+      "titre": "Formation des agents municipaux",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "formation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "063-formation-des-agents-municipaux"
+    },
+    {
+      "id": 64,
+      "titre": "Dispositif municipal contre le harcèlement scolaire",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "école",
+        "harcèlement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "064-dispositif-municipal-contre-le-harcelement-scolaire"
+    },
+    {
+      "id": 65,
+      "titre": "Lutte contre le cyber-harcèlement",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "numérique",
+        "harcèlement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "065-lutte-contre-le-cyber-harcelement"
+    },
+    {
+      "id": 66,
+      "titre": "Prévention des discriminations à l'emploi et au logement",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "emploi",
+        "logement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "066-prevention-des-discriminations-a-l-emploi-et-au-logement"
+    },
+    {
+      "id": 67,
+      "titre": "Observatoire local des discriminations",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "données",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "067-observatoire-local-des-discriminations"
+    },
+    {
+      "id": 68,
+      "titre": "Soutien renforcé aux associations spécialisées",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "associations",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "068-soutien-renforce-aux-associations-specialisees"
+    },
+    {
+      "id": 69,
+      "titre": "Accès prioritaire au logement pour les victimes",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "logement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "069-acces-prioritaire-au-logement-pour-les-victimes"
+    },
+    {
+      "id": 70,
+      "titre": "Campagnes municipales de sensibilisation",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "sensibilisation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "070-campagnes-municipales-de-sensibilisation"
+    },
+    {
+      "id": 71,
+      "titre": "Espaces de parole pour les jeunes",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "jeunesse",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "071-espaces-de-parole-pour-les-jeunes"
+    },
+    {
+      "id": 72,
+      "titre": "Promotion de l'égalité dans les équipements municipaux",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "072-promotion-de-l-egalite-dans-les-equipements-municipaux"
+    },
+    {
+      "id": 73,
+      "titre": "Bilan annuel égalité et protection",
+      "categorie": "Égalité, lutte contre les discriminations",
+      "categorie_id": 5,
+      "icone": "⚖️",
+      "tags": [
+        "égalité",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "073-bilan-annuel-egalite-et-protection"
+    },
+    {
+      "id": 74,
+      "titre": "CCAS renforcé et plus proche",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "social",
+        "proximité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "074-ccas-renforce-et-plus-proche"
+    },
+    {
+      "id": 75,
+      "titre": "Guichet social unique et orientation rapide",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "services",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "075-guichet-social-unique-et-orientation-rapide"
+    },
+    {
+      "id": 76,
+      "titre": "Tarification sociale plus juste",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "pouvoir-achat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "076-tarification-sociale-plus-juste"
+    },
+    {
+      "id": 77,
+      "titre": "Plan municipal de lutte contre la précarité énergétique",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "énergie",
+        "pouvoir-achat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "077-plan-municipal-de-lutte-contre-la-precarite-energetique"
+    },
+    {
+      "id": 78,
+      "titre": "Accès renforcé à l'aide alimentaire et aux droits",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "alimentation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "078-acces-renforce-a-l-aide-alimentaire-et-aux-droits"
+    },
+    {
+      "id": 79,
+      "titre": "Soutien aux familles monoparentales",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "famille",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "079-soutien-aux-familles-monoparentales"
+    },
+    {
+      "id": 80,
+      "titre": "Dispositif municipal de lutte contre l'isolement",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "isolement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "080-dispositif-municipal-de-lutte-contre-l-isolement"
+    },
+    {
+      "id": 81,
+      "titre": "Soutien aux aidants",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "aidants",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "081-soutien-aux-aidants"
+    },
+    {
+      "id": 82,
+      "titre": "Accès facilité aux services pour les personnes en difficulté",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "services",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "082-acces-facilite-aux-services-pour-les-personnes-en-difficulte"
+    },
+    {
+      "id": 83,
+      "titre": "Plan municipal « Enfance et familles »",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "famille",
+        "enfance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "083-plan-municipal-enfance-et-familles"
+    },
+    {
+      "id": 84,
+      "titre": "Solidarité de proximité en cas de crise",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "urgence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "084-solidarite-de-proximite-en-cas-de-crise"
+    },
+    {
+      "id": 85,
+      "titre": "Bilan annuel de l'action sociale",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "solidarité",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "085-bilan-annuel-de-l-action-sociale"
+    },
+    {
+      "id": 86,
+      "titre": "Maisons d'assistantes maternelles (MAM)",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "petite-enfance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "086-maisons-d-assistantes-maternelles-mam"
+    },
+    {
+      "id": 87,
+      "titre": "Plan global de rénovation des écoles",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "rénovation",
+        "école",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "087-plan-global-de-renovation-des-ecoles"
+    },
+    {
+      "id": 88,
+      "titre": "Campus trilingue (audit + trajectoire)",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "excellence",
+        "langues",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "088-campus-trilingue-audit-trajectoire"
+    },
+    {
+      "id": 89,
+      "titre": "Équipement numérique équitable",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "numérique",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "089-equipement-numerique-equitable"
+    },
+    {
+      "id": 90,
+      "titre": "Restauration scolaire",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "alimentation",
+        "école",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "090-restauration-scolaire"
+    },
+    {
+      "id": 91,
+      "titre": "Accompagnement éducatif de proximité",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "quartier",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "091-accompagnement-educatif-de-proximite"
+    },
+    {
+      "id": 92,
+      "titre": "Renforcement du périscolaire",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "périscolaire",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "092-renforcement-du-periscolaire"
+    },
+    {
+      "id": 93,
+      "titre": "Ouverture des centres de loisirs le samedi",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "loisirs",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "093-ouverture-des-centres-de-loisirs-le-samedi"
+    },
+    {
+      "id": 94,
+      "titre": "Lutte contre le décrochage scolaire",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "prévention",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "094-lutte-contre-le-decrochage-scolaire"
+    },
+    {
+      "id": 95,
+      "titre": "Réouverture de « La Barre-de-Monts »",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "loisirs",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "095-reouverture-de-la-barre-de-monts"
+    },
+    {
+      "id": 96,
+      "titre": "Soutien à la parentalité",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "famille",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "096-soutien-a-la-parentalite"
+    },
+    {
+      "id": 97,
+      "titre": "Prévention des inégalités éducatives",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "égalité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "097-prevention-des-inegalites-educatives"
+    },
+    {
+      "id": 98,
+      "titre": "Promotion de la lecture et de la culture",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "culture",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "098-promotion-de-la-lecture-et-de-la-culture"
+    },
+    {
+      "id": 99,
+      "titre": "Participation des élèves à la vie scolaire",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "participation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "099-participation-des-eleves-a-la-vie-scolaire"
+    },
+    {
+      "id": 100,
+      "titre": "Bilan annuel éducatif",
+      "categorie": "Enfance et éducation",
+      "categorie_id": 7,
+      "icone": "📚",
+      "tags": [
+        "éducation",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "100-bilan-annuel-educatif"
+    },
+    {
+      "id": 101,
+      "titre": "Programme « Les Ambassadeurs »",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "excellence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "101-programme-les-ambassadeurs"
+    },
+    {
+      "id": 102,
+      "titre": "Plan mentorat",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "mentorat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "102-plan-mentorat"
+    },
+    {
+      "id": 103,
+      "titre": "Conseil municipal des jeunes",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "démocratie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "103-conseil-municipal-des-jeunes"
+    },
+    {
+      "id": 104,
+      "titre": "Accompagnement individualisé des 16-25 ans",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "insertion",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "104-accompagnement-individualise-des-16-25-ans"
+    },
+    {
+      "id": 105,
+      "titre": "Espaces jeunesse de proximité",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "quartier",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "105-espaces-jeunesse-de-proximite"
+    },
+    {
+      "id": 106,
+      "titre": "Soutien aux projets portés par les jeunes",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "projets",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "106-soutien-aux-projets-portes-par-les-jeunes"
+    },
+    {
+      "id": 107,
+      "titre": "Accès facilité au logement des jeunes",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "logement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "107-acces-facilite-au-logement-des-jeunes"
+    },
+    {
+      "id": 108,
+      "titre": "Aide à la mobilité des jeunes",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "mobilité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "108-aide-a-la-mobilite-des-jeunes"
+    },
+    {
+      "id": 109,
+      "titre": "Prévention des ruptures de parcours",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "prévention",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "109-prevention-des-ruptures-de-parcours"
+    },
+    {
+      "id": 110,
+      "titre": "Promotion de l'engagement citoyen",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "engagement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "110-promotion-de-l-engagement-citoyen"
+    },
+    {
+      "id": 111,
+      "titre": "Développement du volontariat local",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "engagement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "111-developpement-du-volontariat-local"
+    },
+    {
+      "id": 112,
+      "titre": "Soutien à l'entrepreneuriat jeune",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "emploi",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "112-soutien-a-l-entrepreneuriat-jeune"
+    },
+    {
+      "id": 113,
+      "titre": "Lutte contre les discriminations à l'insertion",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "égalité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "113-lutte-contre-les-discriminations-a-l-insertion"
+    },
+    {
+      "id": 114,
+      "titre": "Information renforcée sur les droits des jeunes",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "information",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "114-information-renforcee-sur-les-droits-des-jeunes"
+    },
+    {
+      "id": 115,
+      "titre": "Bilan annuel jeunesse et insertion",
+      "categorie": "Jeunesse, insertion et émancipation",
+      "categorie_id": 8,
+      "icone": "🚀",
+      "tags": [
+        "jeunesse",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "115-bilan-annuel-jeunesse-et-insertion"
+    },
+    {
+      "id": 116,
+      "titre": "Maison de l'emploi et de l'entrepreneuriat",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "entrepreneuriat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "116-maison-de-l-emploi-et-de-l-entrepreneuriat"
+    },
+    {
+      "id": 117,
+      "titre": "Salles municipales pour les entrepreneurs / coworking",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "coworking",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "117-salles-municipales-pour-les-entrepreneurs-coworking"
+    },
+    {
+      "id": 118,
+      "titre": "Fonds municipal de soutien à la création",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "financement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "118-fonds-municipal-de-soutien-a-la-creation"
+    },
+    {
+      "id": 119,
+      "titre": "Incubateur de projets locaux",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "entrepreneuriat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "119-incubateur-de-projets-locaux"
+    },
+    {
+      "id": 120,
+      "titre": "Plateforme locale de recrutement",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "numérique",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "120-plateforme-locale-de-recrutement"
+    },
+    {
+      "id": 121,
+      "titre": "Clauses d'insertion dans les marchés publics",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "insertion",
+        "marchés-publics",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "121-clauses-d-insertion-dans-les-marches-publics"
+    },
+    {
+      "id": 122,
+      "titre": "Accompagnement des reconversions professionnelles",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "formation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "122-accompagnement-des-reconversions-professionnelles"
+    },
+    {
+      "id": 123,
+      "titre": "Concours de création d'entreprise",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "entrepreneuriat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "123-concours-de-creation-d-entreprise"
+    },
+    {
+      "id": 124,
+      "titre": "Lutte contre la vacance commerciale",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "commerce",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "124-lutte-contre-la-vacance-commerciale"
+    },
+    {
+      "id": 125,
+      "titre": "Animation commerciale territoriale",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "commerce",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "125-animation-commerciale-territoriale"
+    },
+    {
+      "id": 126,
+      "titre": "Politique d'achats responsables",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "écologie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "126-politique-d-achats-responsables"
+    },
+    {
+      "id": 127,
+      "titre": "Soutien à l'économie sociale et solidaire",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "solidarité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "127-soutien-a-l-economie-sociale-et-solidaire"
+    },
+    {
+      "id": 128,
+      "titre": "Développement de l'apprentissage local",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "formation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "128-developpement-de-l-apprentissage-local"
+    },
+    {
+      "id": 129,
+      "titre": "Forums emploi et entrepreneuriat annuels",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "événements",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "129-forums-emploi-et-entrepreneuriat-annuels"
+    },
+    {
+      "id": 130,
+      "titre": "Observatoire local de l'emploi",
+      "categorie": "Emploi, entrepreneuriat et commerce local",
+      "categorie_id": 9,
+      "icone": "💼",
+      "tags": [
+        "emploi",
+        "données",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "130-observatoire-local-de-l-emploi"
+    },
+    {
+      "id": 131,
+      "titre": "Gratuité des transports pour les mineurs (remboursement Imagin'R)",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "jeunesse",
+        "pouvoir-achat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "131-gratuite-des-transports-pour-les-mineurs-remboursement-imagin-r"
+    },
+    {
+      "id": 132,
+      "titre": "Aide à la mobilité pour les publics fragiles",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "solidarité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "132-aide-a-la-mobilite-pour-les-publics-fragiles"
+    },
+    {
+      "id": 133,
+      "titre": "Négociation pour l'amélioration de l'offre de transport",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "transports-commun",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "133-negociation-pour-l-amelioration-de-l-offre-de-transport"
+    },
+    {
+      "id": 134,
+      "titre": "Sécurisation des arrêts et pôles d'échange",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "sécurité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "134-securisation-des-arrets-et-poles-d-echange"
+    },
+    {
+      "id": 135,
+      "titre": "Plan municipal vélo",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "vélo",
+        "écologie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "135-plan-municipal-velo"
+    },
+    {
+      "id": 136,
+      "titre": "Stationnements vélos et trottinettes sécurisés",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "vélo",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "136-stationnements-velos-et-trottinettes-securises"
+    },
+    {
+      "id": 137,
+      "titre": "Aide à l'achat de vélos et vélos électriques",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "vélo",
+        "pouvoir-achat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "137-aide-a-l-achat-de-velos-et-velos-electriques"
+    },
+    {
+      "id": 138,
+      "titre": "Plan de circulation concerté",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "urbanisme",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "138-plan-de-circulation-concerte"
+    },
+    {
+      "id": 139,
+      "titre": "Gestion intelligente du stationnement municipal",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "numérique",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "139-gestion-intelligente-du-stationnement-municipal"
+    },
+    {
+      "id": 140,
+      "titre": "Rénovation des trottoirs et des voiries dégradées",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "cadre-de-vie",
+        "rénovation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "140-renovation-des-trottoirs-et-des-voiries-degradees"
+    },
+    {
+      "id": 141,
+      "titre": "Navettes municipales de proximité",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "proximité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "141-navettes-municipales-de-proximite"
+    },
+    {
+      "id": 142,
+      "titre": "Accessibilité universelle des transports",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "handicap",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "142-accessibilite-universelle-des-transports"
+    },
+    {
+      "id": 143,
+      "titre": "Bilan annuel des mobilités",
+      "categorie": "Mobilités et transports",
+      "categorie_id": 10,
+      "icone": "🚌",
+      "tags": [
+        "mobilité",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "143-bilan-annuel-des-mobilites"
+    },
+    {
+      "id": 144,
+      "titre": "Maison des associations renforcée",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "associations",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "144-maison-des-associations-renforcee"
+    },
+    {
+      "id": 145,
+      "titre": "Simplification et transparence des subventions",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "associations",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "145-simplification-et-transparence-des-subventions"
+    },
+    {
+      "id": 146,
+      "titre": "Conventions pluriannuelles de partenariat",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "associations",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "146-conventions-pluriannuelles-de-partenariat"
+    },
+    {
+      "id": 147,
+      "titre": "Fonds municipal pour l'innovation associative",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "associations",
+        "financement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "147-fonds-municipal-pour-l-innovation-associative"
+    },
+    {
+      "id": 148,
+      "titre": "Programmation culturelle de proximité",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "quartier",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "148-programmation-culturelle-de-proximite"
+    },
+    {
+      "id": 149,
+      "titre": "Festival culturel et cinématographique",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "événements",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "149-festival-culturel-et-cinematographique"
+    },
+    {
+      "id": 150,
+      "titre": "Soutien aux pratiques artistiques amateurs",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "art",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "150-soutien-aux-pratiques-artistiques-amateurs"
+    },
+    {
+      "id": 151,
+      "titre": "Plan de rénovation des équipements culturels – Bibliobus 2.0",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "rénovation",
+        "lecture",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "151-plan-de-renovation-des-equipements-culturels-bibliobus-2-0"
+    },
+    {
+      "id": 152,
+      "titre": "Plan municipal du sport et de la culture pour tous – Pass'Sport & Culture",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "sport",
+        "accès",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "152-plan-municipal-du-sport-et-de-la-culture-pour-tous-pass-sport-culture"
+    },
+    {
+      "id": 153,
+      "titre": "Plan « Savoir nager »",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "sport",
+        "enfance",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "153-plan-savoir-nager"
+    },
+    {
+      "id": 154,
+      "titre": "Rénovation, entretien et création d'équipements sportifs",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "sport",
+        "rénovation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "154-renovation-entretien-et-creation-d-equipements-sportifs"
+    },
+    {
+      "id": 155,
+      "titre": "Tarification sociale des activités sportives et culturelles",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "sport",
+        "culture",
+        "pouvoir-achat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "155-tarification-sociale-des-activites-sportives-et-culturelles"
+    },
+    {
+      "id": 156,
+      "titre": "Bus de la mobilité",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "sport",
+        "mobilité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "156-bus-de-la-mobilite"
+    },
+    {
+      "id": 157,
+      "titre": "Développement du sport-santé",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "sport",
+        "santé",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "157-developpement-du-sport-sante"
+    },
+    {
+      "id": 158,
+      "titre": "Valorisation du bénévolat",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "associations",
+        "engagement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "158-valorisation-du-benevolat"
+    },
+    {
+      "id": 159,
+      "titre": "Blanc-Mesnil Plage",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "loisirs",
+        "événements",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "159-blanc-mesnil-plage"
+    },
+    {
+      "id": 160,
+      "titre": "Épiceries sociales et solidaires",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "solidarité",
+        "alimentation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "160-epiceries-sociales-et-solidaires"
+    },
+    {
+      "id": 161,
+      "titre": "Bilan annuel culture, sport et vie associative",
+      "categorie": "Culture, sport et vie associative",
+      "categorie_id": 11,
+      "icone": "🎭",
+      "tags": [
+        "culture",
+        "sport",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "161-bilan-annuel-culture-sport-et-vie-associative"
+    },
+    {
+      "id": 162,
+      "titre": "Maison des seniors",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "proximité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "162-maison-des-seniors"
+    },
+    {
+      "id": 163,
+      "titre": "Activités seniors accessibles et tarification adaptée",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "pouvoir-achat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "163-activites-seniors-accessibles-et-tarification-adaptee"
+    },
+    {
+      "id": 164,
+      "titre": "Renforcement des liens intergénérationnels",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "intergénérationnel",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "164-renforcement-des-liens-intergenerationnels"
+    },
+    {
+      "id": 165,
+      "titre": "Programme municipal de lutte contre l'isolement",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "isolement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "165-programme-municipal-de-lutte-contre-l-isolement"
+    },
+    {
+      "id": 166,
+      "titre": "Soutien au maintien à domicile",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "autonomie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "166-soutien-au-maintien-a-domicile"
+    },
+    {
+      "id": 167,
+      "titre": "Accessibilité renforcée des bâtiments municipaux",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "handicap",
+        "accessibilité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "167-accessibilite-renforcee-des-batiments-municipaux"
+    },
+    {
+      "id": 168,
+      "titre": "Plan « Ville inclusive » pour les personnes en situation de handicap",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "handicap",
+        "accessibilité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "168-plan-ville-inclusive-pour-les-personnes-en-situation-de-handicap"
+    },
+    {
+      "id": 169,
+      "titre": "Référent municipal handicap",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "handicap",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "169-referent-municipal-handicap"
+    },
+    {
+      "id": 170,
+      "titre": "Accès prioritaire aux équipements et services",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "handicap",
+        "services",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "170-acces-prioritaire-aux-equipements-et-services"
+    },
+    {
+      "id": 171,
+      "titre": "Soutien aux aidants de personnes dépendantes",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "aidants",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "171-soutien-aux-aidants-de-personnes-dependantes"
+    },
+    {
+      "id": 172,
+      "titre": "Développement de l'habitat adapté",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "logement",
+        "handicap",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "172-developpement-de-l-habitat-adapte"
+    },
+    {
+      "id": 173,
+      "titre": "Projets intergénérationnels structurés",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "intergénérationnel",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "173-projets-intergenerationnels-structures"
+    },
+    {
+      "id": 174,
+      "titre": "Lutte contre la fracture numérique des seniors",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "numérique",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "174-lutte-contre-la-fracture-numerique-des-seniors"
+    },
+    {
+      "id": 175,
+      "titre": "Participation des seniors à la vie locale",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "participation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "175-participation-des-seniors-a-la-vie-locale"
+    },
+    {
+      "id": 176,
+      "titre": "Bilan annuel autonomie et inclusion",
+      "categorie": "Seniors, handicap et intergénérationnel",
+      "categorie_id": 12,
+      "icone": "👴",
+      "tags": [
+        "seniors",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "176-bilan-annuel-autonomie-et-inclusion"
+    },
+    {
+      "id": 177,
+      "titre": "Développement des jardins partagés de quartier",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "quartier",
+        "alimentation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "177-developpement-des-jardins-partages-de-quartier"
+    },
+    {
+      "id": 178,
+      "titre": "Soutien aux collectifs de jardiniers urbains",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "associations",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "178-soutien-aux-collectifs-de-jardiniers-urbains"
+    },
+    {
+      "id": 179,
+      "titre": "Plan municipal de végétalisation",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "végétalisation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "179-plan-municipal-de-vegetalisation"
+    },
+    {
+      "id": 180,
+      "titre": "Préservation des espaces verts existants",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "espaces-verts",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "180-preservation-des-espaces-verts-existants"
+    },
+    {
+      "id": 181,
+      "titre": "Écoles et équipements écoresponsables",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "école",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "181-ecoles-et-equipements-ecoresponsables"
+    },
+    {
+      "id": 182,
+      "titre": "Ferme pédagogique",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "éducation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "182-ferme-pedagogique"
+    },
+    {
+      "id": 183,
+      "titre": "Sensibilisation à la transition écologique",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "sensibilisation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "183-sensibilisation-a-la-transition-ecologique"
+    },
+    {
+      "id": 184,
+      "titre": "Lutte contre les nuisances environnementales",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "cadre-de-vie",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "184-lutte-contre-les-nuisances-environnementales"
+    },
+    {
+      "id": 185,
+      "titre": "Gestion responsable de l'eau",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "eau",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "185-gestion-responsable-de-l-eau"
+    },
+    {
+      "id": 186,
+      "titre": "Mobilisation citoyenne pour la propreté",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "propreté",
+        "participation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "186-mobilisation-citoyenne-pour-la-proprete"
+    },
+    {
+      "id": 187,
+      "titre": "Développement de l'économie circulaire",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "économie-circulaire",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "187-developpement-de-l-economie-circulaire"
+    },
+    {
+      "id": 188,
+      "titre": "Plan municipal d'adaptation climatique",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "climat",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "188-plan-municipal-d-adaptation-climatique"
+    },
+    {
+      "id": 189,
+      "titre": "Promotion des circuits courts alimentaires",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "alimentation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "189-promotion-des-circuits-courts-alimentaires"
+    },
+    {
+      "id": 190,
+      "titre": "Observatoire local de l'environnement",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "données",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "190-observatoire-local-de-l-environnement"
+    },
+    {
+      "id": 191,
+      "titre": "Bilan annuel écologique",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "191-bilan-annuel-ecologique"
+    },
+    {
+      "id": 192,
+      "titre": "Bien-être animal",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "animaux",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "192-bien-etre-animal"
+    },
+    {
+      "id": 193,
+      "titre": "Protection animale",
+      "categorie": "Écologie, cadre de vie et protection animale",
+      "categorie_id": 13,
+      "icone": "🌿",
+      "tags": [
+        "écologie",
+        "animaux",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "193-protection-animale"
+    },
+    {
+      "id": 194,
+      "titre": "Création d'un Plan Communal de Sauvegarde (PCS)",
+      "categorie": "Prévention des risques et résilience",
+      "categorie_id": 14,
+      "icone": "⚠️",
+      "tags": [
+        "résilience",
+        "sécurité-civile",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "194-creation-d-un-plan-communal-de-sauvegarde-pcs"
+    },
+    {
+      "id": 195,
+      "titre": "Création d'un Poste de Commandement Communal (PCC)",
+      "categorie": "Prévention des risques et résilience",
+      "categorie_id": 14,
+      "icone": "⚠️",
+      "tags": [
+        "résilience",
+        "sécurité-civile",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "195-creation-d-un-poste-de-commandement-communal-pcc"
+    },
+    {
+      "id": 196,
+      "titre": "Plan canicule et grand froid renforcé",
+      "categorie": "Prévention des risques et résilience",
+      "categorie_id": 14,
+      "icone": "⚠️",
+      "tags": [
+        "résilience",
+        "climat",
+        "solidarité",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "196-plan-canicule-et-grand-froid-renforce"
+    },
+    {
+      "id": 197,
+      "titre": "Création d'une Réserve Communale de Sécurité Civile (RCSC)",
+      "categorie": "Prévention des risques et résilience",
+      "categorie_id": 14,
+      "icone": "⚠️",
+      "tags": [
+        "résilience",
+        "engagement",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "197-creation-d-une-reserve-communale-de-securite-civile-rcsc"
+    },
+    {
+      "id": 198,
+      "titre": "Plan de continuité des services publics",
+      "categorie": "Prévention des risques et résilience",
+      "categorie_id": 14,
+      "icone": "⚠️",
+      "tags": [
+        "résilience",
+        "services",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "198-plan-de-continuite-des-services-publics"
+    },
+    {
+      "id": 199,
+      "titre": "Formation des élus et agents à la gestion de crise",
+      "categorie": "Prévention des risques et résilience",
+      "categorie_id": 14,
+      "icone": "⚠️",
+      "tags": [
+        "résilience",
+        "formation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "199-formation-des-elus-et-agents-a-la-gestion-de-crise"
+    },
+    {
+      "id": 200,
+      "titre": "Rédaction d'un DICRIM",
+      "categorie": "Prévention des risques et résilience",
+      "categorie_id": 14,
+      "icone": "⚠️",
+      "tags": [
+        "résilience",
+        "information",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "200-redaction-d-un-dicrim"
+    },
+    {
+      "id": 201,
+      "titre": "Budgets participatifs renforcés",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "participation",
+        "finances",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "201-budgets-participatifs-renforces"
+    },
+    {
+      "id": 202,
+      "titre": "Conseils de quartier dotés de moyens réels",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "quartier",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "202-conseils-de-quartier-dotes-de-moyens-reels"
+    },
+    {
+      "id": 203,
+      "titre": "Plateforme numérique de participation",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "numérique",
+        "participation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "203-plateforme-numerique-de-participation"
+    },
+    {
+      "id": 204,
+      "titre": "Consultations citoyennes régulières",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "participation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "204-consultations-citoyennes-regulieres"
+    },
+    {
+      "id": 205,
+      "titre": "Maîtrise durable des dépenses",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "finances",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "205-maitrise-durable-des-depenses"
+    },
+    {
+      "id": 206,
+      "titre": "Recherche active de financements externes",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "finances",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "206-recherche-active-de-financements-externes"
+    },
+    {
+      "id": 207,
+      "titre": "Priorité à l'investissement utile",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "finances",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "207-priorite-a-l-investissement-utile"
+    },
+    {
+      "id": 208,
+      "titre": "Audit financier de début et mi-mandat",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "finances",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "208-audit-financier-de-debut-et-mi-mandat"
+    },
+    {
+      "id": 209,
+      "titre": "Lutte contre le gaspillage public",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "finances",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "209-lutte-contre-le-gaspillage-public"
+    },
+    {
+      "id": 210,
+      "titre": "Charte de transparence administrative",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "210-charte-de-transparence-administrative"
+    },
+    {
+      "id": 211,
+      "titre": "Évaluation permanente des politiques",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "évaluation",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "211-evaluation-permanente-des-politiques"
+    },
+    {
+      "id": 212,
+      "titre": "Prime CIA",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "administration",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "212-prime-cia"
+    },
+    {
+      "id": 213,
+      "titre": "Rapport de fin de mandat public",
+      "categorie": "Démocratie locale, finances et transparence",
+      "categorie_id": 15,
+      "icone": "🗳️",
+      "tags": [
+        "démocratie",
+        "transparence",
+        "programme"
+      ],
+      "auteur": "Équipe municipale",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "213-rapport-de-fin-de-mandat-public"
+    },
+    {
+      "id": 214,
+      "titre": "ZAC de la Molette — Parc culturel, éducatif et économique",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏗️",
+      "tags": [
+        "grand-projet",
+        "urbanisme",
+        "culture",
+        "économie",
+        "ZAC"
+      ],
+      "auteur": "Daniel M",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "214-zac-de-la-molette-parc-culturel-educatif-et-economique"
+    },
+    {
+      "id": 215,
+      "titre": "Quartier des Tilleuls — Rénovation culturelle et sociale",
+      "categorie": "Logement et urbanisme",
+      "categorie_id": 2,
+      "icone": "🏗️",
+      "tags": [
+        "grand-projet",
+        "urbanisme",
+        "logement",
+        "culture",
+        "associations"
+      ],
+      "auteur": "Daniel M",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "215-quartier-des-tilleuls-renovation-culturelle-et-sociale"
+    },
+    {
+      "id": 216,
+      "titre": "Outils numériques municipaux — Gouvernance et déploiement",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "numérique",
+        "gouvernance",
+        "transparence",
+        "outils"
+      ],
+      "auteur": "Daniel M",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "216-outils-numeriques-municipaux-gouvernance-et-deploiement"
+    },
+    {
+      "id": 217,
+      "titre": "Principes transversaux du mandat",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "gouvernance",
+        "méthode",
+        "transversal"
+      ],
+      "auteur": "Daniel M",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "217-principes-transversaux-du-mandat"
+    },
+    {
+      "id": 218,
+      "titre": "Stratégie pouvoir d'achat municipal",
+      "categorie": "Solidarité, action sociale et famille",
+      "categorie_id": 6,
+      "icone": "🤝",
+      "tags": [
+        "pouvoir-d-achat",
+        "solidarité",
+        "budget",
+        "transversal"
+      ],
+      "auteur": "Daniel M",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "218-strategie-pouvoir-d-achat-municipal"
+    },
+    {
+      "id": 219,
+      "titre": "Plan des 100 premiers jours",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "gouvernance",
+        "100-jours",
+        "calendrier"
+      ],
+      "auteur": "Daniel M",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "219-plan-des-100-premiers-jours"
+    },
+    {
+      "id": 220,
+      "titre": "Calendrier pluriannuel et indicateurs de suivi",
+      "categorie": "Gouvernance, éthique et exemplarité",
+      "categorie_id": 1,
+      "icone": "🏛️",
+      "tags": [
+        "gouvernance",
+        "calendrier",
+        "indicateurs",
+        "évaluation"
+      ],
+      "auteur": "Daniel M",
+      "date": "2026-03-22",
+      "polisId": "",
+      "statut": "publiée",
+      "slug": "220-calendrier-pluriannuel-et-indicateurs-de-suivi"
+    }
+  ]
+}
