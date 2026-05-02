@@ -59,7 +59,7 @@
         </h2>
         <div class="propositions-grid">
           @for (prop of group.propositions; track prop.id) {
-            <a [routerLink]="['/proposition', prop.slug]" class="proposition-card">
+            <a [routerLink]="['/proposition', prop.slug]" class="proposition-card" [class.programme]="prop.tags.includes('programme')">
               <h3 class="proposition-titre">{{ prop.titre }}</h3>
               <div class="proposition-tags">
                 @for (tag of prop.tags; track tag) {
