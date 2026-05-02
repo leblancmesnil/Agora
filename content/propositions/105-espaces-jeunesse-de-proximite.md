@@ -1,3 +1,15 @@
+---
+id: 105
+titre: Espaces jeunesse de proximité
+categorie: Jeunesse, insertion et émancipation
+categorie_id: 8
+icone: 🚀
+tags: [jeunesse, quartier, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-105
+statut: publiée
+---
 # Espaces jeunesse de proximité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

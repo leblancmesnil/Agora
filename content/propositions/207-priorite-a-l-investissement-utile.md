@@ -1,3 +1,15 @@
+---
+id: 207
+titre: Priorité à l'investissement utile
+categorie: Démocratie locale, finances et transparence
+categorie_id: 15
+icone: 🗳️
+tags: [démocratie, finances, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-207
+statut: publiée
+---
 # Priorité à l'investissement utile
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

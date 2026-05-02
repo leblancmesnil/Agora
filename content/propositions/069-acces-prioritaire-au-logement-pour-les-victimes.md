@@ -1,3 +1,15 @@
+---
+id: 69
+titre: Accès prioritaire au logement pour les victimes
+categorie: Égalité, lutte contre les discriminations
+categorie_id: 5
+icone: ⚖️
+tags: [égalité, logement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-069
+statut: publiée
+---
 # Accès prioritaire au logement pour les victimes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

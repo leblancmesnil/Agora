@@ -1,3 +1,15 @@
+---
+id: 72
+titre: Promotion de l'égalité dans les équipements municipaux
+categorie: Égalité, lutte contre les discriminations
+categorie_id: 5
+icone: ⚖️
+tags: [égalité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-072
+statut: publiée
+---
 # Promotion de l'égalité dans les équipements municipaux
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

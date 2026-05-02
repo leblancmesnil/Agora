@@ -1,3 +1,15 @@
+---
+id: 64
+titre: Dispositif municipal contre le harcèlement scolaire
+categorie: Égalité, lutte contre les discriminations
+categorie_id: 5
+icone: ⚖️
+tags: [égalité, école, harcèlement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-064
+statut: publiée
+---
 # Dispositif municipal contre le harcèlement scolaire
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

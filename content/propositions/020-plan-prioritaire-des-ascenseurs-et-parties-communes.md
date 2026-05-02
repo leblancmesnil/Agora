@@ -1,3 +1,15 @@
+---
+id: 20
+titre: Plan prioritaire des ascenseurs et parties communes
+categorie: Logement et urbanisme
+categorie_id: 2
+icone: 🏠
+tags: [logement, rénovation, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-020
+statut: publiée
+---
 # Plan prioritaire des ascenseurs et parties communes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 38
+titre: Plan local contre les violences faites aux femmes
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, égalité, femmes, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-038
+statut: publiée
+---
 # Plan local contre les violences faites aux femmes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

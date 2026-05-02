@@ -1,3 +1,15 @@
+---
+id: 75
+titre: Guichet social unique et orientation rapide
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, services, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-075
+statut: publiée
+---
 # Guichet social unique et orientation rapide
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

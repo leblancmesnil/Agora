@@ -1,3 +1,15 @@
+---
+id: 169
+titre: Référent municipal handicap
+categorie: Seniors, handicap et intergénérationnel
+categorie_id: 12
+icone: 👴
+tags: [handicap, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-169
+statut: publiée
+---
 # Référent municipal handicap
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

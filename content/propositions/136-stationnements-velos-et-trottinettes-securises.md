@@ -1,3 +1,15 @@
+---
+id: 136
+titre: Stationnements vélos et trottinettes sécurisés
+categorie: Mobilités et transports
+categorie_id: 10
+icone: 🚌
+tags: [mobilité, vélo, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-136
+statut: publiée
+---
 # Stationnements vélos et trottinettes sécurisés
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

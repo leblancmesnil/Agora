@@ -1,3 +1,15 @@
+---
+id: 198
+titre: Plan de continuité des services publics
+categorie: Prévention des risques et résilience
+categorie_id: 14
+icone: ⚠️
+tags: [résilience, services, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-198
+statut: publiée
+---
 # Plan de continuité des services publics
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

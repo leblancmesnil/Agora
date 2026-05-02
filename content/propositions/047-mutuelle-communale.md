@@ -1,3 +1,15 @@
+---
+id: 47
+titre: Mutuelle communale
+categorie: Santé et accès aux soins
+categorie_id: 4
+icone: 🏥
+tags: [santé, solidarité, pouvoir-achat, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-047
+statut: publiée
+---
 # Mutuelle communale
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

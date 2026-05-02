@@ -1,3 +1,15 @@
+---
+id: 3
+titre: Transparence budgétaire renforcée
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [transparence, finances, gouvernance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 5wxrtjpbdw
+statut: publiée
+---
 # Transparence budgétaire renforcée
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 46
+titre: Déploiement de cabinets de proximité
+categorie: Santé et accès aux soins
+categorie_id: 4
+icone: 🏥
+tags: [santé, proximité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-046
+statut: publiée
+---
 # Déploiement de cabinets de proximité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

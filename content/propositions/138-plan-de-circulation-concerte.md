@@ -1,3 +1,15 @@
+---
+id: 138
+titre: Plan de circulation concerté
+categorie: Mobilités et transports
+categorie_id: 10
+icone: 🚌
+tags: [mobilité, urbanisme, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-138
+statut: publiée
+---
 # Plan de circulation concerté
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 4
+titre: Charte éthique des élus municipaux
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [éthique, gouvernance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 4hsrz2rnpv
+statut: publiée
+---
 # Charte éthique des élus municipaux
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

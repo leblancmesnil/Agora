@@ -1,3 +1,15 @@
+---
+id: 143
+titre: Bilan annuel des mobilités
+categorie: Mobilités et transports
+categorie_id: 10
+icone: 🚌
+tags: [mobilité, transparence, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-143
+statut: publiée
+---
 # Bilan annuel des mobilités
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

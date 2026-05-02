@@ -1,3 +1,15 @@
+---
+id: 147
+titre: Fonds municipal pour l'innovation associative
+categorie: Culture, sport et vie associative
+categorie_id: 11
+icone: 🎭
+tags: [culture, associations, financement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-147
+statut: publiée
+---
 # Fonds municipal pour l'innovation associative
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

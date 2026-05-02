@@ -1,3 +1,15 @@
+---
+id: 28
+titre: Accompagnement des nouvelles stations de métro (Grand Paris Express)
+categorie: Logement et urbanisme
+categorie_id: 2
+icone: 🏠
+tags: [urbanisme, transport, grand-paris, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-028
+statut: publiée
+---
 # Accompagnement des nouvelles stations de métro (Grand Paris Express)
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

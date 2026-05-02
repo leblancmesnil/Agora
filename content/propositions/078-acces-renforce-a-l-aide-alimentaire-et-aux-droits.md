@@ -1,3 +1,15 @@
+---
+id: 78
+titre: Accès renforcé à l'aide alimentaire et aux droits
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, alimentation, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-078
+statut: publiée
+---
 # Accès renforcé à l'aide alimentaire et aux droits
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

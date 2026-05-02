@@ -1,3 +1,15 @@
+---
+id: 201
+titre: Budgets participatifs renforcés
+categorie: Démocratie locale, finances et transparence
+categorie_id: 15
+icone: 🗳️
+tags: [démocratie, participation, finances, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-201
+statut: publiée
+---
 # Budgets participatifs renforcés
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

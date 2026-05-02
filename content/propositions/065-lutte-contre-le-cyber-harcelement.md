@@ -1,3 +1,15 @@
+---
+id: 65
+titre: Lutte contre le cyber-harcèlement
+categorie: Égalité, lutte contre les discriminations
+categorie_id: 5
+icone: ⚖️
+tags: [égalité, numérique, harcèlement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-065
+statut: publiée
+---
 # Lutte contre le cyber-harcèlement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

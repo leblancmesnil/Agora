@@ -1,3 +1,15 @@
+---
+id: 118
+titre: Fonds municipal de soutien à la création
+categorie: Emploi, entrepreneuriat et commerce local
+categorie_id: 9
+icone: 💼
+tags: [emploi, financement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-118
+statut: publiée
+---
 # Fonds municipal de soutien à la création
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

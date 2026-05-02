@@ -1,3 +1,15 @@
+---
+id: 8
+titre: Conseils municipaux ouverts et compréhensibles
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [transparence, démocratie, gouvernance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 4kyhveh2rj
+statut: publiée
+---
 # Conseils municipaux ouverts et compréhensibles
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 85
+titre: Bilan annuel de l'action sociale
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, transparence, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-085
+statut: publiée
+---
 # Bilan annuel de l'action sociale
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

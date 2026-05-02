@@ -1,3 +1,15 @@
+---
+id: 200
+titre: Rédaction d'un DICRIM
+categorie: Prévention des risques et résilience
+categorie_id: 14
+icone: ⚠️
+tags: [résilience, information, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-200
+statut: publiée
+---
 # Rédaction d'un DICRIM
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 197
+titre: Création d'une Réserve Communale de Sécurité Civile (RCSC)
+categorie: Prévention des risques et résilience
+categorie_id: 14
+icone: ⚠️
+tags: [résilience, engagement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-197
+statut: publiée
+---
 # Création d'une Réserve Communale de Sécurité Civile (RCSC)
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

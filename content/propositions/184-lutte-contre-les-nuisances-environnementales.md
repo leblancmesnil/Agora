@@ -1,3 +1,15 @@
+---
+id: 184
+titre: Lutte contre les nuisances environnementales
+categorie: Écologie, cadre de vie et protection animale
+categorie_id: 13
+icone: 🌿
+tags: [écologie, cadre-de-vie, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-184
+statut: publiée
+---
 # Lutte contre les nuisances environnementales
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

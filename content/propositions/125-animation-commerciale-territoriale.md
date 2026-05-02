@@ -1,3 +1,15 @@
+---
+id: 125
+titre: Animation commerciale territoriale
+categorie: Emploi, entrepreneuriat et commerce local
+categorie_id: 9
+icone: 💼
+tags: [emploi, commerce, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-125
+statut: publiée
+---
 # Animation commerciale territoriale
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

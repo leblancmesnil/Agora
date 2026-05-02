@@ -1,3 +1,15 @@
+---
+id: 12
+titre: Évaluation indépendante à mi-mandat
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [évaluation, gouvernance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-012
+statut: publiée
+---
 # Évaluation indépendante à mi-mandat
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 150
+titre: Soutien aux pratiques artistiques amateurs
+categorie: Culture, sport et vie associative
+categorie_id: 11
+icone: 🎭
+tags: [culture, art, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-150
+statut: publiée
+---
 # Soutien aux pratiques artistiques amateurs
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

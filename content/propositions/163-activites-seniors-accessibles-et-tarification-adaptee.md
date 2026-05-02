@@ -1,3 +1,15 @@
+---
+id: 163
+titre: Activités seniors accessibles et tarification adaptée
+categorie: Seniors, handicap et intergénérationnel
+categorie_id: 12
+icone: 👴
+tags: [seniors, pouvoir-achat, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-163
+statut: publiée
+---
 # Activités seniors accessibles et tarification adaptée
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

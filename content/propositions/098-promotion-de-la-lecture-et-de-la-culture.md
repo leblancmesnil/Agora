@@ -1,3 +1,15 @@
+---
+id: 98
+titre: Promotion de la lecture et de la culture
+categorie: Enfance et éducation
+categorie_id: 7
+icone: 📚
+tags: [éducation, culture, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-098
+statut: publiée
+---
 # Promotion de la lecture et de la culture
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

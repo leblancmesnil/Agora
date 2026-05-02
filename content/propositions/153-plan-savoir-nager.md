@@ -1,3 +1,15 @@
+---
+id: 153
+titre: Plan « Savoir nager »
+categorie: Culture, sport et vie associative
+categorie_id: 11
+icone: 🎭
+tags: [sport, enfance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-153
+statut: publiée
+---
 # Plan « Savoir nager »
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 57
+titre: Soutien structuré aux aidants familiaux
+categorie: Santé et accès aux soins
+categorie_id: 4
+icone: 🏥
+tags: [santé, aidants, solidarité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-057
+statut: publiée
+---
 # Soutien structuré aux aidants familiaux
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

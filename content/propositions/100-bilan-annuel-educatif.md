@@ -1,3 +1,15 @@
+---
+id: 100
+titre: Bilan annuel éducatif
+categorie: Enfance et éducation
+categorie_id: 7
+icone: 📚
+tags: [éducation, transparence, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-100
+statut: publiée
+---
 # Bilan annuel éducatif
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

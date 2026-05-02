@@ -1,3 +1,15 @@
+---
+id: 83
+titre: Plan municipal « Enfance et familles »
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, famille, enfance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-083
+statut: publiée
+---
 # Plan municipal « Enfance et familles »
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

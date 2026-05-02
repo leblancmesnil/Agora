@@ -1,3 +1,15 @@
+---
+id: 168
+titre: Plan « Ville inclusive » pour les personnes en situation de handicap
+categorie: Seniors, handicap et intergénérationnel
+categorie_id: 12
+icone: 👴
+tags: [handicap, accessibilité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-168
+statut: publiée
+---
 # Plan « Ville inclusive » pour les personnes en situation de handicap
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

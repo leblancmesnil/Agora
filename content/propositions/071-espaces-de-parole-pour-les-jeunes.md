@@ -1,3 +1,15 @@
+---
+id: 71
+titre: Espaces de parole pour les jeunes
+categorie: Égalité, lutte contre les discriminations
+categorie_id: 5
+icone: ⚖️
+tags: [égalité, jeunesse, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-071
+statut: publiée
+---
 # Espaces de parole pour les jeunes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

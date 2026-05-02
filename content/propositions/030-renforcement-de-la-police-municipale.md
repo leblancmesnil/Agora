@@ -1,3 +1,15 @@
+---
+id: 30
+titre: Renforcement de la police municipale
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, police, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-030
+statut: publiée
+---
 # Renforcement de la police municipale
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

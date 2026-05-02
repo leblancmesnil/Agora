@@ -1,3 +1,15 @@
+---
+id: 116
+titre: Maison de l'emploi et de l'entrepreneuriat
+categorie: Emploi, entrepreneuriat et commerce local
+categorie_id: 9
+icone: 💼
+tags: [emploi, entrepreneuriat, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-116
+statut: publiée
+---
 # Maison de l'emploi et de l'entrepreneuriat
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

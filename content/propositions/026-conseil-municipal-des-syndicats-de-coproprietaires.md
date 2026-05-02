@@ -1,3 +1,15 @@
+---
+id: 26
+titre: Conseil municipal des syndicats de copropriétaires
+categorie: Logement et urbanisme
+categorie_id: 2
+icone: 🏠
+tags: [logement, copropriété, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-026
+statut: publiée
+---
 # Conseil municipal des syndicats de copropriétaires
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

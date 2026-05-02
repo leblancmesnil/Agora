@@ -1,3 +1,15 @@
+---
+id: 42
+titre: Actions contre les conduites à risque
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, prévention, santé, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-042
+statut: publiée
+---
 # Actions contre les conduites à risque
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

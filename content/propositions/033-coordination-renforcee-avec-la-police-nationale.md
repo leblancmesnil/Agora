@@ -1,3 +1,15 @@
+---
+id: 33
+titre: Coordination renforcée avec la police nationale
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, coordination, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-033
+statut: publiée
+---
 # Coordination renforcée avec la police nationale
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

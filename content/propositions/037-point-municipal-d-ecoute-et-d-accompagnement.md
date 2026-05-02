@@ -1,3 +1,15 @@
+---
+id: 37
+titre: Point municipal d'écoute et d'accompagnement
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, accompagnement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-037
+statut: publiée
+---
 # Point municipal d'écoute et d'accompagnement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

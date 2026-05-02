@@ -1,3 +1,15 @@
+---
+id: 84
+titre: Solidarité de proximité en cas de crise
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, urgence, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-084
+statut: publiée
+---
 # Solidarité de proximité en cas de crise
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

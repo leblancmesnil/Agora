@@ -1,3 +1,15 @@
+---
+id: 148
+titre: Programmation culturelle de proximité
+categorie: Culture, sport et vie associative
+categorie_id: 11
+icone: 🎭
+tags: [culture, quartier, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-148
+statut: publiée
+---
 # Programmation culturelle de proximité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

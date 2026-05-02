@@ -1,3 +1,15 @@
+---
+id: 96
+titre: Soutien à la parentalité
+categorie: Enfance et éducation
+categorie_id: 7
+icone: 📚
+tags: [éducation, famille, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-096
+statut: publiée
+---
 # Soutien à la parentalité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 51
+titre: Programme municipal de prévention santé
+categorie: Santé et accès aux soins
+categorie_id: 4
+icone: 🏥
+tags: [santé, prévention, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-051
+statut: publiée
+---
 # Programme municipal de prévention santé
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

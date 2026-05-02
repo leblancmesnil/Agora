@@ -1,3 +1,15 @@
+---
+id: 89
+titre: Équipement numérique équitable
+categorie: Enfance et éducation
+categorie_id: 7
+icone: 📚
+tags: [éducation, numérique, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-089
+statut: publiée
+---
 # Équipement numérique équitable
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

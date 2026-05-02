@@ -1,3 +1,15 @@
+---
+id: 22
+titre: Cellule de lutte contre l'habitat indigne
+categorie: Logement et urbanisme
+categorie_id: 2
+icone: 🏠
+tags: [logement, sécurité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-022
+statut: publiée
+---
 # Cellule de lutte contre l'habitat indigne
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

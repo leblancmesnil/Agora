@@ -1,3 +1,15 @@
+---
+id: 31
+titre: Déploiement des patrouilles de proximité
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, proximité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-031
+statut: publiée
+---
 # Déploiement des patrouilles de proximité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

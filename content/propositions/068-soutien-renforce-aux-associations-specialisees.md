@@ -1,3 +1,15 @@
+---
+id: 68
+titre: Soutien renforcé aux associations spécialisées
+categorie: Égalité, lutte contre les discriminations
+categorie_id: 5
+icone: ⚖️
+tags: [égalité, associations, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-068
+statut: publiée
+---
 # Soutien renforcé aux associations spécialisées
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

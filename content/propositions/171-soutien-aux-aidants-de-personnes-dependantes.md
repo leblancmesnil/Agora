@@ -1,3 +1,15 @@
+---
+id: 171
+titre: Soutien aux aidants de personnes dépendantes
+categorie: Seniors, handicap et intergénérationnel
+categorie_id: 12
+icone: 👴
+tags: [seniors, aidants, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-171
+statut: publiée
+---
 # Soutien aux aidants de personnes dépendantes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

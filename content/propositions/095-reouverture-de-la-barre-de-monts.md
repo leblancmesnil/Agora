@@ -1,3 +1,15 @@
+---
+id: 95
+titre: Réouverture de « La Barre-de-Monts »
+categorie: Enfance et éducation
+categorie_id: 7
+icone: 📚
+tags: [éducation, loisirs, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-095
+statut: publiée
+---
 # Réouverture de « La Barre-de-Monts »
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 196
+titre: Plan canicule et grand froid renforcé
+categorie: Prévention des risques et résilience
+categorie_id: 14
+icone: ⚠️
+tags: [résilience, climat, solidarité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-196
+statut: publiée
+---
 # Plan canicule et grand froid renforcé
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

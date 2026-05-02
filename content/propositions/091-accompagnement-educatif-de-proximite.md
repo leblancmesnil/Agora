@@ -1,3 +1,15 @@
+---
+id: 91
+titre: Accompagnement éducatif de proximité
+categorie: Enfance et éducation
+categorie_id: 7
+icone: 📚
+tags: [éducation, quartier, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-091
+statut: publiée
+---
 # Accompagnement éducatif de proximité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

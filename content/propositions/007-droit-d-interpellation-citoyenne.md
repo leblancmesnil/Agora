@@ -1,3 +1,15 @@
+---
+id: 7
+titre: Droit d'interpellation citoyenne
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [participation, démocratie, gouvernance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 5xxxejrj28
+statut: publiée
+---
 # Droit d'interpellation citoyenne
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

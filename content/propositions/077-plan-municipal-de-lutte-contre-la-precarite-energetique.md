@@ -1,3 +1,15 @@
+---
+id: 77
+titre: Plan municipal de lutte contre la précarité énergétique
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, énergie, pouvoir-achat, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-077
+statut: publiée
+---
 # Plan municipal de lutte contre la précarité énergétique
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

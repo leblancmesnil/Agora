@@ -1,3 +1,15 @@
+---
+id: 5
+titre: Participation citoyenne permanente
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [participation, démocratie, gouvernance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 9s5szj7hdc
+statut: publiée
+---
 # Participation citoyenne permanente
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

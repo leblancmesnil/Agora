@@ -1,3 +1,15 @@
+---
+id: 183
+titre: Sensibilisation à la transition écologique
+categorie: Écologie, cadre de vie et protection animale
+categorie_id: 13
+icone: 🌿
+tags: [écologie, sensibilisation, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-183
+statut: publiée
+---
 # Sensibilisation à la transition écologique
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

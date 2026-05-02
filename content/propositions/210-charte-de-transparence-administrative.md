@@ -1,3 +1,15 @@
+---
+id: 210
+titre: Charte de transparence administrative
+categorie: Démocratie locale, finances et transparence
+categorie_id: 15
+icone: 🗳️
+tags: [démocratie, transparence, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-210
+statut: publiée
+---
 # Charte de transparence administrative
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

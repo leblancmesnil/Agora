@@ -1,3 +1,15 @@
+---
+id: 174
+titre: Lutte contre la fracture numérique des seniors
+categorie: Seniors, handicap et intergénérationnel
+categorie_id: 12
+icone: 👴
+tags: [seniors, numérique, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-174
+statut: publiée
+---
 # Lutte contre la fracture numérique des seniors
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

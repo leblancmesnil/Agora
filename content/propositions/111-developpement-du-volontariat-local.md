@@ -1,3 +1,15 @@
+---
+id: 111
+titre: Développement du volontariat local
+categorie: Jeunesse, insertion et émancipation
+categorie_id: 8
+icone: 🚀
+tags: [jeunesse, engagement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-111
+statut: publiée
+---
 # Développement du volontariat local
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

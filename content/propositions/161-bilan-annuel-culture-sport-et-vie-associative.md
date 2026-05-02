@@ -1,3 +1,15 @@
+---
+id: 161
+titre: Bilan annuel culture, sport et vie associative
+categorie: Culture, sport et vie associative
+categorie_id: 11
+icone: 🎭
+tags: [culture, sport, transparence, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-161
+statut: publiée
+---
 # Bilan annuel culture, sport et vie associative
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

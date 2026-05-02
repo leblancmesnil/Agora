@@ -1,3 +1,15 @@
+---
+id: 156
+titre: Bus de la mobilité
+categorie: Culture, sport et vie associative
+categorie_id: 11
+icone: 🎭
+tags: [sport, mobilité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-156
+statut: publiée
+---
 # Bus de la mobilité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

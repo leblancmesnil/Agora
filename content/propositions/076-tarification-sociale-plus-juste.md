@@ -1,3 +1,15 @@
+---
+id: 76
+titre: Tarification sociale plus juste
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, pouvoir-achat, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-076
+statut: publiée
+---
 # Tarification sociale plus juste
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

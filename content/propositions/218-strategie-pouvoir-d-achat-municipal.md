@@ -1,3 +1,15 @@
+---
+id: 218
+titre: Stratégie pouvoir d'achat municipal
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [pouvoir-d-achat, solidarité, budget, transversal]
+auteur: Daniel M
+date: 2026-03-22
+polisId: 93150-218
+statut: publiée
+---
 # Stratégie pouvoir d'achat municipal
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

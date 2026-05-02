@@ -1,3 +1,15 @@
+---
+id: 132
+titre: Aide à la mobilité pour les publics fragiles
+categorie: Mobilités et transports
+categorie_id: 10
+icone: 🚌
+tags: [mobilité, solidarité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-132
+statut: publiée
+---
 # Aide à la mobilité pour les publics fragiles
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

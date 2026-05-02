@@ -1,3 +1,15 @@
+---
+id: 167
+titre: Accessibilité renforcée des bâtiments municipaux
+categorie: Seniors, handicap et intergénérationnel
+categorie_id: 12
+icone: 👴
+tags: [seniors, handicap, accessibilité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-167
+statut: publiée
+---
 # Accessibilité renforcée des bâtiments municipaux
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

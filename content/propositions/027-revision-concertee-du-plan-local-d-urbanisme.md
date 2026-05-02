@@ -1,3 +1,15 @@
+---
+id: 27
+titre: Révision concertée du Plan Local d'Urbanisme
+categorie: Logement et urbanisme
+categorie_id: 2
+icone: 🏠
+tags: [urbanisme, participation, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-027
+statut: publiée
+---
 # Révision concertée du Plan Local d'Urbanisme
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

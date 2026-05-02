@@ -1,3 +1,15 @@
+---
+id: 106
+titre: Soutien aux projets portés par les jeunes
+categorie: Jeunesse, insertion et émancipation
+categorie_id: 8
+icone: 🚀
+tags: [jeunesse, projets, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-106
+statut: publiée
+---
 # Soutien aux projets portés par les jeunes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

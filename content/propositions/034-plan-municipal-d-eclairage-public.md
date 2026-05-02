@@ -1,3 +1,15 @@
+---
+id: 34
+titre: Plan municipal d'éclairage public
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, éclairage, cadre-de-vie, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-034
+statut: publiée
+---
 # Plan municipal d'éclairage public
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

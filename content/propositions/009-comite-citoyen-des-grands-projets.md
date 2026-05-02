@@ -1,3 +1,15 @@
+---
+id: 9
+titre: Comité citoyen des grands projets
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [participation, projets, gouvernance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 8yxxe3drzw
+statut: publiée
+---
 # Comité citoyen des grands projets
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 80
+titre: Dispositif municipal de lutte contre l'isolement
+categorie: Solidarité, action sociale et famille
+categorie_id: 6
+icone: 🤝
+tags: [solidarité, isolement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-080
+statut: publiée
+---
 # Dispositif municipal de lutte contre l'isolement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

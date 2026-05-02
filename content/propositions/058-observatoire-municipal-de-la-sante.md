@@ -1,3 +1,15 @@
+---
+id: 58
+titre: Observatoire municipal de la santé
+categorie: Santé et accès aux soins
+categorie_id: 4
+icone: 🏥
+tags: [santé, données, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-058
+statut: publiée
+---
 # Observatoire municipal de la santé
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

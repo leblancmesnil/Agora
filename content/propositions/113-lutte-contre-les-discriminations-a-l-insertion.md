@@ -1,3 +1,15 @@
+---
+id: 113
+titre: Lutte contre les discriminations à l'insertion
+categorie: Jeunesse, insertion et émancipation
+categorie_id: 8
+icone: 🚀
+tags: [jeunesse, égalité, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-113
+statut: publiée
+---
 # Lutte contre les discriminations à l'insertion
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

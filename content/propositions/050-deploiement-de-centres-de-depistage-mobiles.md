@@ -1,3 +1,15 @@
+---
+id: 50
+titre: Déploiement de centres de dépistage mobiles
+categorie: Santé et accès aux soins
+categorie_id: 4
+icone: 🏥
+tags: [santé, prévention, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-050
+statut: publiée
+---
 # Déploiement de centres de dépistage mobiles
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

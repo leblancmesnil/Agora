@@ -8,6 +8,7 @@ export interface Proposition {
   auteur: string;
   date: string;
   polisId: string;
+  polisExists?: boolean | null;
   statut: string;
   slug: string;
   body?: string; // optional — fetched directly from .md at runtime

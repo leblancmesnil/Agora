@@ -1,3 +1,15 @@
+---
+id: 67
+titre: Observatoire local des discriminations
+categorie: Égalité, lutte contre les discriminations
+categorie_id: 5
+icone: ⚖️
+tags: [égalité, données, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-067
+statut: publiée
+---
 # Observatoire local des discriminations
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

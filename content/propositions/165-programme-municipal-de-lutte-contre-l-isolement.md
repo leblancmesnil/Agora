@@ -1,3 +1,15 @@
+---
+id: 165
+titre: Programme municipal de lutte contre l'isolement
+categorie: Seniors, handicap et intergénérationnel
+categorie_id: 12
+icone: 👴
+tags: [seniors, isolement, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-165
+statut: publiée
+---
 # Programme municipal de lutte contre l'isolement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

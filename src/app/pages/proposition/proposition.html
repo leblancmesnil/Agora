@@ -1,6 +1,14 @@
 @if (proposition(); as prop) {
   <section class="proposition-detail">
-    <a routerLink="/agora" class="back-link">← Retour à l'Agora</a>
+    <nav class="proposition-top-nav">
+      <a routerLink="/agora" class="back-link">← Retour à l'Agora</a>
+      @if (prev()) {
+        <a [routerLink]="['/proposition', prev()?.slug]" class="sibling-link prev">← {{ prev()?.titre }}</a>
+      }
+      @if (next()) {
+        <a [routerLink]="['/proposition', next()?.slug]" class="sibling-link next">{{ next()?.titre }} →</a>
+      }
+    </nav>
 
     <header class="proposition-header">
       <span class="proposition-icone">{{ prop.icone }}</span>

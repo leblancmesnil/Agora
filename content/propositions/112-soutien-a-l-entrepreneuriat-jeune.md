@@ -1,3 +1,15 @@
+---
+id: 112
+titre: Soutien à l'entrepreneuriat jeune
+categorie: Jeunesse, insertion et émancipation
+categorie_id: 8
+icone: 🚀
+tags: [jeunesse, emploi, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-112
+statut: publiée
+---
 # Soutien à l'entrepreneuriat jeune
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

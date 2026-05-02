@@ -1,3 +1,15 @@
+---
+id: 195
+titre: Création d'un Poste de Commandement Communal (PCC)
+categorie: Prévention des risques et résilience
+categorie_id: 14
+icone: ⚠️
+tags: [résilience, sécurité-civile, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-195
+statut: publiée
+---
 # Création d'un Poste de Commandement Communal (PCC)
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

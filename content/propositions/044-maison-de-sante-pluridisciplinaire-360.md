@@ -1,3 +1,15 @@
+---
+id: 44
+titre: Maison de santé pluridisciplinaire 360
+categorie: Santé et accès aux soins
+categorie_id: 4
+icone: 🏥
+tags: [santé, soins, accès, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-044
+statut: publiée
+---
 # Maison de santé pluridisciplinaire 360
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

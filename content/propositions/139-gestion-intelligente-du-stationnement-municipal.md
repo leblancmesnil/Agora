@@ -1,3 +1,15 @@
+---
+id: 139
+titre: Gestion intelligente du stationnement municipal
+categorie: Mobilités et transports
+categorie_id: 10
+icone: 🚌
+tags: [mobilité, numérique, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-139
+statut: publiée
+---
 # Gestion intelligente du stationnement municipal
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

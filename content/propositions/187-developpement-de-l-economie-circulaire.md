@@ -1,3 +1,15 @@
+---
+id: 187
+titre: Développement de l'économie circulaire
+categorie: Écologie, cadre de vie et protection animale
+categorie_id: 13
+icone: 🌿
+tags: [écologie, économie-circulaire, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-187
+statut: publiée
+---
 # Développement de l'économie circulaire
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

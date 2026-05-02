@@ -1,3 +1,15 @@
+---
+id: 185
+titre: Gestion responsable de l'eau
+categorie: Écologie, cadre de vie et protection animale
+categorie_id: 13
+icone: 🌿
+tags: [écologie, eau, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-185
+statut: publiée
+---
 # Gestion responsable de l'eau
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

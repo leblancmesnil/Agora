@@ -1,3 +1,15 @@
+---
+id: 192
+titre: Bien-être animal
+categorie: Écologie, cadre de vie et protection animale
+categorie_id: 13
+icone: 🌿
+tags: [écologie, animaux, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-192
+statut: publiée
+---
 # Bien-être animal
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,3 +1,15 @@
+---
+id: 133
+titre: Négociation pour l'amélioration de l'offre de transport
+categorie: Mobilités et transports
+categorie_id: 10
+icone: 🚌
+tags: [mobilité, transports-commun, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-133
+statut: publiée
+---
 # Négociation pour l'amélioration de l'offre de transport
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

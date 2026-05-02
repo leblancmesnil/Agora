@@ -1,3 +1,15 @@
+---
+id: 35
+titre: Sécurisation des abords scolaires
+categorie: Sécurité, prévention et tranquillité publique
+categorie_id: 3
+icone: 🛡️
+tags: [sécurité, école, enfance, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-035
+statut: publiée
+---
 # Sécurisation des abords scolaires
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

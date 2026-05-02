@@ -16,6 +16,57 @@
   }
 }
 
+/* Top navigation containing back link and sibling (prev/next) links */
+.proposition-top-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.proposition-top-nav .back-link {
+  margin-bottom: 0; /* override default when inside the top nav */
+}
+
+.sibling-link {
+  display: inline-block;
+  max-width: 36ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  color: #145e54;
+  text-decoration: none;
+  background: linear-gradient(180deg, rgba(20,94,84,0.04), rgba(20,94,84,0.02));
+  border: 1px solid rgba(20,94,84,0.06);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.sibling-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(16,24,32,0.06);
+}
+
+.sibling-link.prev {
+  color: #2A9D8F;
+  margin-left: 0.25rem;
+}
+
+.sibling-link.next {
+  color: #0f6b60;
+}
+
+@media (max-width: 700px) {
+  .sibling-link {
+    max-width: 9ch;
+    font-size: 0.85rem;
+    padding: 0.25rem 0.45rem;
+  }
+}
+
 .proposition-header {
   display: flex;
   align-items: flex-start;

@@ -1,3 +1,15 @@
+---
+id: 188
+titre: Plan municipal d'adaptation climatique
+categorie: Écologie, cadre de vie et protection animale
+categorie_id: 13
+icone: 🌿
+tags: [écologie, climat, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-188
+statut: publiée
+---
 # Plan municipal d'adaptation climatique
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

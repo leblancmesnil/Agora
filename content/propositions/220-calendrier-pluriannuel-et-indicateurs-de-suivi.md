@@ -1,3 +1,15 @@
+---
+id: 220
+titre: Calendrier pluriannuel et indicateurs de suivi
+categorie: Gouvernance, éthique et exemplarité
+categorie_id: 1
+icone: 🏛️
+tags: [gouvernance, calendrier, indicateurs, évaluation]
+auteur: Daniel M
+date: 2026-03-22
+polisId: 93150-220
+statut: publiée
+---
 # Calendrier pluriannuel et indicateurs de suivi
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

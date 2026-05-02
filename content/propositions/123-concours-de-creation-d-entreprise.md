@@ -1,3 +1,15 @@
+---
+id: 123
+titre: Concours de création d'entreprise
+categorie: Emploi, entrepreneuriat et commerce local
+categorie_id: 9
+icone: 💼
+tags: [emploi, entrepreneuriat, programme]
+auteur: Équipe municipale
+date: 2026-03-22
+polisId: 93150-123
+statut: publiée
+---
 # Concours de création d'entreprise
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.
