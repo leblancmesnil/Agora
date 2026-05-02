@@ -1,16 +1,3 @@
----
-id: 86
-titre: "Maisons d'assistantes maternelles (MAM)"
-categorie: "Enfance et éducation"
-categorie_id: 7
-icone: "📚"
-tags: ["éducation", "petite-enfance", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-086"
-statut: "publiée"
----
-
 # Maisons d'assistantes maternelles (MAM)
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

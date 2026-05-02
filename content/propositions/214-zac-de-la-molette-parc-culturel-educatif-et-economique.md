@@ -1,16 +1,3 @@
----
-id: 214
-titre: "ZAC de la Molette — Parc culturel, éducatif et économique"
-categorie: "Logement et urbanisme"
-categorie_id: 2
-icone: "🏗️"
-tags: ["grand-projet", "urbanisme", "culture", "économie", "ZAC"]
-auteur: "Daniel M"
-date: "2026-03-22"
-polisId: "93150-214"
-statut: "publiée"
----
-
 # ZAC de la Molette — Parc culturel, éducatif et économique
 
 

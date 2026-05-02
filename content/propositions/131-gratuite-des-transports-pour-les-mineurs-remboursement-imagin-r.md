@@ -1,16 +1,3 @@
----
-id: 131
-titre: "Gratuité des transports pour les mineurs (remboursement Imagin'R)"
-categorie: "Mobilités et transports"
-categorie_id: 10
-icone: "🚌"
-tags: ["mobilité", "jeunesse", "pouvoir-achat", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-131"
-statut: "publiée"
----
-
 # Gratuité des transports pour les mineurs (remboursement Imagin'R)
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

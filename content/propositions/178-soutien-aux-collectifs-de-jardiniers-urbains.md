@@ -1,16 +1,3 @@
----
-id: 178
-titre: "Soutien aux collectifs de jardiniers urbains"
-categorie: "Écologie, cadre de vie et protection animale"
-categorie_id: 13
-icone: "🌿"
-tags: ["écologie", "associations", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-178"
-statut: "publiée"
----
-
 # Soutien aux collectifs de jardiniers urbains
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

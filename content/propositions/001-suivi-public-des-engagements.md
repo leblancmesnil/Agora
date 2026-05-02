@@ -1,16 +1,3 @@
----
-id: 1
-titre: "Suivi public des engagements"
-categorie: "Gouvernance, éthique et exemplarité"
-categorie_id: 1
-icone: "🏛️"
-tags: ["transparence", "numérique", "gouvernance", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "6mmjcabtm3"
-statut: "publiée"
----
-
 # Suivi public des engagements
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,16 +1,3 @@
----
-id: 39
-titre: "Lutte contre les incivilités du quotidien – sécurisation des parkings"
-categorie: "Sécurité, prévention et tranquillité publique"
-categorie_id: 3
-icone: "🛡️"
-tags: ["sécurité", "incivilités", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-039"
-statut: "publiée"
----
-
 # Lutte contre les incivilités du quotidien – sécurisation des parkings
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,16 +1,3 @@
----
-id: 137
-titre: "Aide à l'achat de vélos et vélos électriques"
-categorie: "Mobilités et transports"
-categorie_id: 10
-icone: "🚌"
-tags: ["mobilité", "vélo", "pouvoir-achat", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-137"
-statut: "publiée"
----
-
 # Aide à l'achat de vélos et vélos électriques
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

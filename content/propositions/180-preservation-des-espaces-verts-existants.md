@@ -1,16 +1,3 @@
----
-id: 180
-titre: "Préservation des espaces verts existants"
-categorie: "Écologie, cadre de vie et protection animale"
-categorie_id: 13
-icone: "🌿"
-tags: ["écologie", "espaces-verts", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-180"
-statut: "publiée"
----
-
 # Préservation des espaces verts existants
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,16 +1,3 @@
----
-id: 87
-titre: "Plan global de rénovation des écoles"
-categorie: "Enfance et éducation"
-categorie_id: 7
-icone: "📚"
-tags: ["éducation", "rénovation", "école", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-087"
-statut: "publiée"
----
-
 # Plan global de rénovation des écoles
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

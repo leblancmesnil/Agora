@@ -1,16 +1,3 @@
----
-id: 66
-titre: "Prévention des discriminations à l'emploi et au logement"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "emploi", "logement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-066"
-statut: "publiée"
----
-
 # Prévention des discriminations à l'emploi et au logement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

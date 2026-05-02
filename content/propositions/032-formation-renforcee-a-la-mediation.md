@@ -1,16 +1,3 @@
----
-id: 32
-titre: "Formation renforcée à la médiation"
-categorie: "Sécurité, prévention et tranquillité publique"
-categorie_id: 3
-icone: "🛡️"
-tags: ["sécurité", "médiation", "formation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-032"
-statut: "publiée"
----
-
 # Formation renforcée à la médiation
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

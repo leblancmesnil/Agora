@@ -1,16 +1,3 @@
----
-id: 61
-titre: "Parcours d'accompagnement global des victimes"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "accompagnement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-061"
-statut: "publiée"
----
-
 # Parcours d'accompagnement global des victimes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

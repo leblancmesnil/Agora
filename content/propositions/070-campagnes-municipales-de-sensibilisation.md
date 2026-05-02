@@ -1,16 +1,3 @@
----
-id: 70
-titre: "Campagnes municipales de sensibilisation"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "sensibilisation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-070"
-statut: "publiée"
----
-
 # Campagnes municipales de sensibilisation
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

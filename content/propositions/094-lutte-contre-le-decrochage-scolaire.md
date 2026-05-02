@@ -1,16 +1,3 @@
----
-id: 94
-titre: "Lutte contre le décrochage scolaire"
-categorie: "Enfance et éducation"
-categorie_id: 7
-icone: "📚"
-tags: ["éducation", "prévention", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-094"
-statut: "publiée"
----
-
 # Lutte contre le décrochage scolaire
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

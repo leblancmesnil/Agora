@@ -1,16 +1,3 @@
----
-id: 79
-titre: "Soutien aux familles monoparentales"
-categorie: "Solidarité, action sociale et famille"
-categorie_id: 6
-icone: "🤝"
-tags: ["solidarité", "famille", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-079"
-statut: "publiée"
----
-
 # Soutien aux familles monoparentales
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

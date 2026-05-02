@@ -1,16 +1,3 @@
----
-id: 15
-titre: "Guichet unique du logement"
-categorie: "Logement et urbanisme"
-categorie_id: 2
-icone: "🏠"
-tags: ["logement", "services", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-015"
-statut: "publiée"
----
-
 # Guichet unique du logement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

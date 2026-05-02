@@ -1,16 +1,3 @@
----
-id: 208
-titre: "Audit financier de début et mi-mandat"
-categorie: "Démocratie locale, finances et transparence"
-categorie_id: 15
-icone: "🗳️"
-tags: ["démocratie", "finances", "transparence", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-208"
-statut: "publiée"
----
-
 # Audit financier de début et mi-mandat
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

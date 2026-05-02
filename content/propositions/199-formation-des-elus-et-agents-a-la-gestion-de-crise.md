@@ -1,16 +1,3 @@
----
-id: 199
-titre: "Formation des élus et agents à la gestion de crise"
-categorie: "Prévention des risques et résilience"
-categorie_id: 14
-icone: "⚠️"
-tags: ["résilience", "formation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-199"
-statut: "publiée"
----
-
 # Formation des élus et agents à la gestion de crise
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

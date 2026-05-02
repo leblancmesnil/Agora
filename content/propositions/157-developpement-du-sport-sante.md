@@ -1,16 +1,3 @@
----
-id: 157
-titre: "Développement du sport-santé"
-categorie: "Culture, sport et vie associative"
-categorie_id: 11
-icone: "🎭"
-tags: ["sport", "santé", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-157"
-statut: "publiée"
----
-
 # Développement du sport-santé
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

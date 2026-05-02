@@ -1,16 +1,3 @@
----
-id: 173
-titre: "Projets intergénérationnels structurés"
-categorie: "Seniors, handicap et intergénérationnel"
-categorie_id: 12
-icone: "👴"
-tags: ["seniors", "intergénérationnel", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-173"
-statut: "publiée"
----
-
 # Projets intergénérationnels structurés
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,16 +1,3 @@
----
-id: 62
-titre: "Renforcement des lieux d'accueil sécurisés"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "sécurité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-062"
-statut: "publiée"
----
-
 # Renforcement des lieux d'accueil sécurisés
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

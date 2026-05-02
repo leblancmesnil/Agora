@@ -1,16 +1,3 @@
----
-id: 182
-titre: "Ferme pédagogique"
-categorie: "Écologie, cadre de vie et protection animale"
-categorie_id: 13
-icone: "🌿"
-tags: ["écologie", "éducation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-182"
-statut: "publiée"
----
-
 # Ferme pédagogique
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

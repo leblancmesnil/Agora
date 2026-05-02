@@ -1,16 +1,3 @@
----
-id: 213
-titre: "Rapport de fin de mandat public"
-categorie: "Démocratie locale, finances et transparence"
-categorie_id: 15
-icone: "🗳️"
-tags: ["démocratie", "transparence", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-213"
-statut: "publiée"
----
-
 # Rapport de fin de mandat public
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

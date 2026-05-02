@@ -1,16 +1,3 @@
----
-id: 53
-titre: "Parcours d'accompagnement des maladies chroniques"
-categorie: "Santé et accès aux soins"
-categorie_id: 4
-icone: "🏥"
-tags: ["santé", "accompagnement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-053"
-statut: "publiée"
----
-
 # Parcours d'accompagnement des maladies chroniques
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

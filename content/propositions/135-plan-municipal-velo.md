@@ -1,16 +1,3 @@
----
-id: 135
-titre: "Plan municipal vélo"
-categorie: "Mobilités et transports"
-categorie_id: 10
-icone: "🚌"
-tags: ["mobilité", "vélo", "écologie", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-135"
-statut: "publiée"
----
-
 # Plan municipal vélo
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

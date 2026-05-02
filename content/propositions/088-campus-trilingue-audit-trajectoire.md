@@ -1,16 +1,3 @@
----
-id: 88
-titre: "Campus trilingue (audit + trajectoire)"
-categorie: "Enfance et éducation"
-categorie_id: 7
-icone: "📚"
-tags: ["éducation", "excellence", "langues", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-088"
-statut: "publiée"
----
-
 # Campus trilingue (audit + trajectoire)
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

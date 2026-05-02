@@ -1,16 +1,3 @@
----
-id: 215
-titre: "Quartier des Tilleuls — Rénovation culturelle et sociale"
-categorie: "Logement et urbanisme"
-categorie_id: 2
-icone: "🏗️"
-tags: ["grand-projet", "urbanisme", "logement", "culture", "associations"]
-auteur: "Daniel M"
-date: "2026-03-22"
-polisId: "93150-215"
-statut: "publiée"
----
-
 # Quartier des Tilleuls — Rénovation culturelle et sociale
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

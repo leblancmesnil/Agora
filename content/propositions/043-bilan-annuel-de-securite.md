@@ -1,16 +1,3 @@
----
-id: 43
-titre: "Bilan annuel de sécurité"
-categorie: "Sécurité, prévention et tranquillité publique"
-categorie_id: 3
-icone: "🛡️"
-tags: ["sécurité", "transparence", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-043"
-statut: "publiée"
----
-
 # Bilan annuel de sécurité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

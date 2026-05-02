@@ -1,16 +1,3 @@
----
-id: 162
-titre: "Maison des seniors"
-categorie: "Seniors, handicap et intergénérationnel"
-categorie_id: 12
-icone: "👴"
-tags: ["seniors", "proximité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-162"
-statut: "publiée"
----
-
 # Maison des seniors
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,6 +1,6 @@
 import { Injectable, inject } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, map, shareReplay } from 'rxjs';
+import { Observable, map, shareReplay, catchError } from 'rxjs';
 import { Proposition, PropositionsData } from '../models/proposition.model';
 
 @Injectable({ providedIn: 'root' })
@@ -18,14 +18,24 @@ export class PropositionsService {
     return this.data$;
   }
 
-  /** Get a single proposition (body included) from the generated JSON index */
+  /** Get a single proposition (body included).
+   * Try to fetch the markdown file `assets/propositions/<slug>.md` at runtime first.
+   * If that fails (not found or network issue), fall back to the generated `propositions.json`.
+   */
   getPropositionMarkdown(slug: string): Observable<Proposition> {
-    return this.getData().pipe(
-      map(data => {
-        const found = data.propositions.find(p => p.slug === slug);
-        if (!found) throw new Error('Not found');
-        return found as Proposition;
-      })
+    const mdPath = `assets/propositions/${slug}.md`;
+    return (this.http.get(mdPath, { responseType: 'text' }) as Observable<string>).pipe(
+      map(raw => this.parseMarkdown(raw, slug)),
+      catchError(() =>
+        this.getData().pipe(
+          map(data => {
+            const found = data.propositions.find(p => p.slug === slug);
+            if (!found) throw new Error('Not found');
+            return found as Proposition;
+          })
+        )
+      ),
+      shareReplay(1)
     );
   }
 

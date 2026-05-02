@@ -1,16 +1,3 @@
----
-id: 164
-titre: "Renforcement des liens intergénérationnels"
-categorie: "Seniors, handicap et intergénérationnel"
-categorie_id: 12
-icone: "👴"
-tags: ["seniors", "intergénérationnel", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-164"
-statut: "publiée"
----
-
 # Renforcement des liens intergénérationnels
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

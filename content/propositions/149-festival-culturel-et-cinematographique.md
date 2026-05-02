@@ -1,16 +1,3 @@
----
-id: 149
-titre: "Festival culturel et cinématographique"
-categorie: "Culture, sport et vie associative"
-categorie_id: 11
-icone: "🎭"
-tags: ["culture", "événements", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-149"
-statut: "publiée"
----
-
 # Festival culturel et cinématographique
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

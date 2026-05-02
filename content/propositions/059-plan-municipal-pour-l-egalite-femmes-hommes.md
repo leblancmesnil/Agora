@@ -1,16 +1,3 @@
----
-id: 59
-titre: "Plan municipal pour l'égalité femmes-hommes"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "femmes", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-059"
-statut: "publiée"
----
-
 # Plan municipal pour l'égalité femmes-hommes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

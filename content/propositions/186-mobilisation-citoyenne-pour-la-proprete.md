@@ -1,16 +1,3 @@
----
-id: 186
-titre: "Mobilisation citoyenne pour la propreté"
-categorie: "Écologie, cadre de vie et protection animale"
-categorie_id: 13
-icone: "🌿"
-tags: ["écologie", "propreté", "participation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-186"
-statut: "publiée"
----
-
 # Mobilisation citoyenne pour la propreté
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

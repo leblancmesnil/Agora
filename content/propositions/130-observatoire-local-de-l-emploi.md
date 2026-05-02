@@ -1,16 +1,3 @@
----
-id: 130
-titre: "Observatoire local de l'emploi"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "données", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-130"
-statut: "publiée"
----
-
 # Observatoire local de l'emploi
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

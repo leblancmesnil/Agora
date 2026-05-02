@@ -1,16 +1,3 @@
----
-id: 48
-titre: "Accueil structuré des jeunes professionnels de santé"
-categorie: "Santé et accès aux soins"
-categorie_id: 4
-icone: "🏥"
-tags: ["santé", "jeunesse", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-048"
-statut: "publiée"
----
-
 # Accueil structuré des jeunes professionnels de santé
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

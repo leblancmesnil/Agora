@@ -1,16 +1,3 @@
----
-id: 166
-titre: "Soutien au maintien à domicile"
-categorie: "Seniors, handicap et intergénérationnel"
-categorie_id: 12
-icone: "👴"
-tags: ["seniors", "autonomie", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-166"
-statut: "publiée"
----
-
 # Soutien au maintien à domicile
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

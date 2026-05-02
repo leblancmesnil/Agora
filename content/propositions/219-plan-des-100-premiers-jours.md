@@ -1,16 +1,3 @@
----
-id: 219
-titre: "Plan des 100 premiers jours"
-categorie: "Gouvernance, éthique et exemplarité"
-categorie_id: 1
-icone: "🏛️"
-tags: ["gouvernance", "100-jours", "calendrier"]
-auteur: "Daniel M"
-date: "2026-03-22"
-polisId: "93150-219"
-statut: "publiée"
----
-
 # Plan des 100 premiers jours
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

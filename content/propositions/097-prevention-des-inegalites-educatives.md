@@ -1,16 +1,3 @@
----
-id: 97
-titre: "Prévention des inégalités éducatives"
-categorie: "Enfance et éducation"
-categorie_id: 7
-icone: "📚"
-tags: ["éducation", "égalité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-097"
-statut: "publiée"
----
-
 # Prévention des inégalités éducatives
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

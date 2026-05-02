@@ -1,16 +1,3 @@
----
-id: 108
-titre: "Aide à la mobilité des jeunes"
-categorie: "Jeunesse, insertion et émancipation"
-categorie_id: 8
-icone: "🚀"
-tags: ["jeunesse", "mobilité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-108"
-statut: "publiée"
----
-
 # Aide à la mobilité des jeunes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

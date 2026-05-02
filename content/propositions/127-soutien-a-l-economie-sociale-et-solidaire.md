@@ -1,16 +1,3 @@
----
-id: 127
-titre: "Soutien à l'économie sociale et solidaire"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "solidarité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-127"
-statut: "publiée"
----
-
 # Soutien à l'économie sociale et solidaire
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,16 +1,3 @@
----
-id: 110
-titre: "Promotion de l'engagement citoyen"
-categorie: "Jeunesse, insertion et émancipation"
-categorie_id: 8
-icone: "🚀"
-tags: ["jeunesse", "engagement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-110"
-statut: "publiée"
----
-
 # Promotion de l'engagement citoyen
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

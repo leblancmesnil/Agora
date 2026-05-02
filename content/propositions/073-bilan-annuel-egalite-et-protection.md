@@ -1,16 +1,3 @@
----
-id: 73
-titre: "Bilan annuel égalité et protection"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "transparence", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-073"
-statut: "publiée"
----
-
 # Bilan annuel égalité et protection
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

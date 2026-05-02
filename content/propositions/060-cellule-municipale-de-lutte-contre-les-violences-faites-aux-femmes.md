@@ -1,16 +1,3 @@
----
-id: 60
-titre: "Cellule municipale de lutte contre les violences faites aux femmes"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "femmes", "sécurité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-060"
-statut: "publiée"
----
-
 # Cellule municipale de lutte contre les violences faites aux femmes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

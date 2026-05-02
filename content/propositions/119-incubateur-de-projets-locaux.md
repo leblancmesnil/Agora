@@ -1,16 +1,3 @@
----
-id: 119
-titre: "Incubateur de projets locaux"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "entrepreneuriat", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-119"
-statut: "publiée"
----
-
 # Incubateur de projets locaux
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

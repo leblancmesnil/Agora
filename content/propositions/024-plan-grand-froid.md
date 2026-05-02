@@ -1,16 +1,3 @@
----
-id: 24
-titre: "Plan grand froid"
-categorie: "Logement et urbanisme"
-categorie_id: 2
-icone: "🏠"
-tags: ["logement", "urgence", "solidarité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-024"
-statut: "publiée"
----
-
 # Plan grand froid
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

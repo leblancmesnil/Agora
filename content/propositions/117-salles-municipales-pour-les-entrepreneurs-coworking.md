@@ -1,16 +1,3 @@
----
-id: 117
-titre: "Salles municipales pour les entrepreneurs / coworking"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "coworking", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-117"
-statut: "publiée"
----
-
 # Salles municipales pour les entrepreneurs / coworking
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

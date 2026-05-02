@@ -1,16 +1,3 @@
----
-id: 194
-titre: "Création d'un Plan Communal de Sauvegarde (PCS)"
-categorie: "Prévention des risques et résilience"
-categorie_id: 14
-icone: "⚠️"
-tags: ["résilience", "sécurité-civile", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-194"
-statut: "publiée"
----
-
 # Création d'un Plan Communal de Sauvegarde (PCS)
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

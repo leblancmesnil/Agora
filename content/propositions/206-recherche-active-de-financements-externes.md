@@ -1,16 +1,3 @@
----
-id: 206
-titre: "Recherche active de financements externes"
-categorie: "Démocratie locale, finances et transparence"
-categorie_id: 15
-icone: "🗳️"
-tags: ["démocratie", "finances", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-206"
-statut: "publiée"
----
-
 # Recherche active de financements externes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

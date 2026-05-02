@@ -1,16 +1,3 @@
----
-id: 142
-titre: "Accessibilité universelle des transports"
-categorie: "Mobilités et transports"
-categorie_id: 10
-icone: "🚌"
-tags: ["mobilité", "handicap", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-142"
-statut: "publiée"
----
-
 # Accessibilité universelle des transports
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

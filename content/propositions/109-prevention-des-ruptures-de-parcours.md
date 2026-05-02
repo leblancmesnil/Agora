@@ -1,16 +1,3 @@
----
-id: 109
-titre: "Prévention des ruptures de parcours"
-categorie: "Jeunesse, insertion et émancipation"
-categorie_id: 8
-icone: "🚀"
-tags: ["jeunesse", "prévention", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-109"
-statut: "publiée"
----
-
 # Prévention des ruptures de parcours
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

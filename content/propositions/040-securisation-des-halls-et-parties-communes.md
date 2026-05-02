@@ -1,16 +1,3 @@
----
-id: 40
-titre: "Sécurisation des halls et parties communes"
-categorie: "Sécurité, prévention et tranquillité publique"
-categorie_id: 3
-icone: "🛡️"
-tags: ["sécurité", "logement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-040"
-statut: "publiée"
----
-
 # Sécurisation des halls et parties communes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

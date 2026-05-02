@@ -1,16 +1,3 @@
----
-id: 115
-titre: "Bilan annuel jeunesse et insertion"
-categorie: "Jeunesse, insertion et émancipation"
-categorie_id: 8
-icone: "🚀"
-tags: ["jeunesse", "transparence", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-115"
-statut: "publiée"
----
-
 # Bilan annuel jeunesse et insertion
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

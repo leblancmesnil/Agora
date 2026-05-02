@@ -1,16 +1,3 @@
----
-id: 52
-titre: "Dispositif local de santé mentale"
-categorie: "Santé et accès aux soins"
-categorie_id: 4
-icone: "🏥"
-tags: ["santé", "santé-mentale", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-052"
-statut: "publiée"
----
-
 # Dispositif local de santé mentale
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

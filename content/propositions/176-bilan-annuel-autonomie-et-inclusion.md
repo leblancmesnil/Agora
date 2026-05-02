@@ -1,16 +1,3 @@
----
-id: 176
-titre: "Bilan annuel autonomie et inclusion"
-categorie: "Seniors, handicap et intergénérationnel"
-categorie_id: 12
-icone: "👴"
-tags: ["seniors", "transparence", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-176"
-statut: "publiée"
----
-
 # Bilan annuel autonomie et inclusion
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

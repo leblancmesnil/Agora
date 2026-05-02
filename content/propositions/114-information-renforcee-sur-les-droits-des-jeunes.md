@@ -1,16 +1,3 @@
----
-id: 114
-titre: "Information renforcée sur les droits des jeunes"
-categorie: "Jeunesse, insertion et émancipation"
-categorie_id: 8
-icone: "🚀"
-tags: ["jeunesse", "information", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-114"
-statut: "publiée"
----
-
 # Information renforcée sur les droits des jeunes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

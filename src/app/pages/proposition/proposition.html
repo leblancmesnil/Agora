@@ -39,49 +39,71 @@
         Vos contributions sont anonymes et servent à regrouper les opinions similaires.
       </p>
       @if (polisUrl()) {
-        <div class="polis-embed">
-          <iframe
-            id="polis-iframe"
-            [src]="polisUrl()!"
-            width="100%"
-            height="800"
-            frameborder="0"
-            title="Discussion Pol.is"
-            onload="translatePolisGUI()"
-          ></iframe>
-          <div class="polis-footer">
-            <a [href]="polisUrl()" target="_blank" rel="noopener noreferrer" class="polis-external-link">
-              Ouvrir la discussion complète sur Pol.is (nouvelle fenêtre)
-            </a>
+        @if (showPolis()) {
+          <div class="polis-embed">
+            <iframe
+              id="polis-iframe"
+              [src]="polisUrl()!"
+              width="100%"
+              height="800"
+              frameborder="0"
+              title="Discussion Pol.is"
+              onload="translatePolisGUI()"
+            ></iframe>
+            <div class="polis-footer">
+              <a [href]="polisUrl()" target="_blank" rel="noopener noreferrer" class="polis-external-link">
+                Ouvrir la discussion complète sur Pol.is (nouvelle fenêtre)
+              </a>
+            </div>
           </div>
-        </div>
-        <script>
-          function translatePolisGUI() {
-            const iframe = document.getElementById('polis-iframe');
-            if (!iframe) return;
+          <script>
+            function translatePolisGUI() {
+              try {
+                const iframe = document.getElementById('polis-iframe');
+                if (!iframe) return;
 
-            iframe.onload = () => {
-              const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
-              if (!iframeDoc) return;
+                iframe.onload = () => {
+                  try {
+                    const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+                    if (!iframeDoc) return;
 
-              // Example translations (adjust as needed)
-              const translations = {
-                'Share your perspective...': 'Partagez votre perspective...',
-                'Agree': 'D’accord',
-                'Disagree': 'Pas d’accord',
-                'Pass': 'Passer',
-              };
+                    // Example translations (adjust as needed)
+                    const translations = {
+                      'Share your perspective...': 'Partagez votre perspective...',
+                      'Agree': 'D’accord',
+                      'Disagree': 'Pas d’accord',
+                      'Pass': 'Passer',
+                    };
 
-              // Translate elements
-              Object.keys(translations).forEach((key) => {
-                const elements = iframeDoc.querySelectorAll(`*:contains('${key}')`);
-                elements.forEach((el) => {
-                  el.textContent = translations[key];
-                });
-              });
-            };
-          }
-        </script>
+                    // Translate elements (best-effort; may fail on cross-origin frames)
+                    Object.keys(translations).forEach((key) => {
+                      const elements = iframeDoc.querySelectorAll(`*:contains('${key}')`);
+                      elements.forEach((el) => {
+                        el.textContent = translations[key];
+                      });
+                    });
+                  } catch (inner) {
+                    // Cross-origin access denied or other issues — silently ignore.
+                  }
+                };
+              } catch (e) {
+                // Safety: if any unexpected error occurs, don't block page rendering.
+              }
+            }
+          </script>
+        } @else {
+          <div class="polis-placeholder">
+            <p>La discussion Pol.is sera bientôt disponible pour cette proposition.</p>
+            <p>En attendant, vous pouvez contribuer en
+              <a href="https://github.com/leblancmesnil/agora/issues" target="_blank" rel="noopener">
+                ouvrant une issue sur GitHub
+              </a>.
+            </p>
+            <div style="margin-top:1rem;">
+              <button class="btn btn-secondary" (click)="forceShowPolis()">Afficher la discussion</button>
+            </div>
+          </div>
+        }
       } @else {
         <div class="polis-placeholder">
           <p>La discussion Pol.is sera bientôt disponible pour cette proposition.</p>

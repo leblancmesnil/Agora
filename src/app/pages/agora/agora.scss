@@ -88,20 +88,23 @@
 .tag {
   display: inline-block;
   padding: 0.25rem 0.6rem;
-  background: #f0f0f0;
-  border-radius: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background: transparent;
+  border-radius: 9999px;
   font-size: 0.8rem;
   color: #555;
   cursor: pointer;
-  transition: background 0.15s;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
 
   &:hover {
-    background: #ddd;
+    background: rgba(0, 0, 0, 0.03);
+    border-color: rgba(0, 0, 0, 0.12);
   }
 
   &.active {
     background: #2A9D8F;
     color: white;
+    border-color: #2A9D8F;
   }
 }
 
@@ -160,10 +163,17 @@
     border-color: #cbcaf0;
   }
 
+  .proposition-id {
+    font-size: 0.75rem;
+    color: #7a8b95;
+    margin-bottom: 0.25rem;
+    font-weight: 700;
+  }
+
   .proposition-titre {
     font-size: 1rem;
     font-weight: 600;
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.5rem;
     color: #1B4965;
   }
 

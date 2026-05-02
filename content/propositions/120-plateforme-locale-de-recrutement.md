@@ -1,16 +1,3 @@
----
-id: 120
-titre: "Plateforme locale de recrutement"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "numérique", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-120"
-statut: "publiée"
----
-
 # Plateforme locale de recrutement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

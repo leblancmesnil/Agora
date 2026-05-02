@@ -1,16 +1,3 @@
----
-id: 74
-titre: "CCAS renforcé et plus proche"
-categorie: "Solidarité, action sociale et famille"
-categorie_id: 6
-icone: "🤝"
-tags: ["solidarité", "social", "proximité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-074"
-statut: "publiée"
----
-
 # CCAS renforcé et plus proche
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

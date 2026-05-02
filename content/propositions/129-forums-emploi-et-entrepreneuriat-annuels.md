@@ -1,16 +1,3 @@
----
-id: 129
-titre: "Forums emploi et entrepreneuriat annuels"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "événements", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-129"
-statut: "publiée"
----
-
 # Forums emploi et entrepreneuriat annuels
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

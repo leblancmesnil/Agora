@@ -1,16 +1,3 @@
----
-id: 155
-titre: "Tarification sociale des activités sportives et culturelles"
-categorie: "Culture, sport et vie associative"
-categorie_id: 11
-icone: "🎭"
-tags: ["sport", "culture", "pouvoir-achat", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-155"
-statut: "publiée"
----
-
 # Tarification sociale des activités sportives et culturelles
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

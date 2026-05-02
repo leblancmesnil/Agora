@@ -1,16 +1,3 @@
----
-id: 170
-titre: "Accès prioritaire aux équipements et services"
-categorie: "Seniors, handicap et intergénérationnel"
-categorie_id: 12
-icone: "👴"
-tags: ["handicap", "services", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-170"
-statut: "publiée"
----
-
 # Accès prioritaire aux équipements et services
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

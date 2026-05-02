@@ -1,16 +1,3 @@
----
-id: 140
-titre: "Rénovation des trottoirs et des voiries dégradées"
-categorie: "Mobilités et transports"
-categorie_id: 10
-icone: "🚌"
-tags: ["mobilité", "cadre-de-vie", "rénovation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-140"
-statut: "publiée"
----
-
 # Rénovation des trottoirs et des voiries dégradées
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

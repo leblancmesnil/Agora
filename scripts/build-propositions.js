@@ -72,11 +72,19 @@ function buildIndex() {
       polisId: parsed.polisId || '',
       statut: parsed.statut || 'publiée',
       slug: file.replace('.md', ''),
-      // Include the body in the JSON so the app can load proposition details
-      body: parsed.body || ''
+      // NOTE: do NOT include the body in the JSON anymore — keep bodies in the .md files
     };
 
     propositions.push(proposition);
+
+    // Overwrite the source markdown to remove frontmatter and keep only the body.
+    // This ensures metadata lives only in the generated JSON index.
+    try {
+      const outPath = path.join(CONTENT_DIR, file);
+      fs.writeFileSync(outPath, parsed.body + '\n', 'utf-8');
+    } catch (e) {
+      console.warn(`⚠️  Failed to rewrite ${file}: ${e.message}`);
+    }
 
     // Collect categories
     if (parsed.categorie && parsed.categorie_id) {

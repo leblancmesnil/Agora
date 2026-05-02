@@ -1,16 +1,3 @@
----
-id: 216
-titre: "Outils numériques municipaux — Gouvernance et déploiement"
-categorie: "Gouvernance, éthique et exemplarité"
-categorie_id: 1
-icone: "🏛️"
-tags: ["numérique", "gouvernance", "transparence", "outils"]
-auteur: "Daniel M"
-date: "2026-03-22"
-polisId: "93150-216"
-statut: "publiée"
----
-
 # Outils numériques municipaux — Gouvernance et déploiement
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

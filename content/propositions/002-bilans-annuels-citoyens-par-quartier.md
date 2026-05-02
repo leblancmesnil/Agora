@@ -1,16 +1,3 @@
----
-id: 2
-titre: "Bilans annuels citoyens par quartier"
-categorie: "Gouvernance, éthique et exemplarité"
-categorie_id: 1
-icone: "🏛️"
-tags: ["participation", "quartier", "gouvernance", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "7jypdmmhzu"
-statut: "publiée"
----
-
 # Bilans annuels citoyens par quartier
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

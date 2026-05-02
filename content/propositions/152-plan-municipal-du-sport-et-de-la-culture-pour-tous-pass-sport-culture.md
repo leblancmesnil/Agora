@@ -1,16 +1,3 @@
----
-id: 152
-titre: "Plan municipal du sport et de la culture pour tous – Pass'Sport & Culture"
-categorie: "Culture, sport et vie associative"
-categorie_id: 11
-icone: "🎭"
-tags: ["culture", "sport", "accès", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-152"
-statut: "publiée"
----
-
 # Plan municipal du sport et de la culture pour tous – Pass'Sport & Culture
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

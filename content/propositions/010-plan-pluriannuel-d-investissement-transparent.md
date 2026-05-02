@@ -1,16 +1,3 @@
----
-id: 10
-titre: "Plan pluriannuel d'investissement transparent"
-categorie: "Gouvernance, éthique et exemplarité"
-categorie_id: 1
-icone: "🏛️"
-tags: ["transparence", "finances", "gouvernance", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-010"
-statut: "publiée"
----
-
 # Plan pluriannuel d'investissement transparent
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

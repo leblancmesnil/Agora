@@ -18,6 +18,8 @@ export class PropositionPage {
 
   protected proposition = signal<Proposition | null>(null);
   protected polisUrl = signal<SafeResourceUrl | null>(null);
+  protected polisHref = signal<string | null>(null);
+  protected showPolis = signal<boolean>(false);
   protected bodyHtml = signal<SafeHtml | null>(null);
 
   constructor() {
@@ -32,7 +34,14 @@ export class PropositionPage {
         this.bodyHtml.set(this.sanitizer.bypassSecurityTrustHtml(html as string));
         if (prop.polisId) {
           const url = `https://pol.is/${prop.polisId}`;
+          this.polisHref.set(url);
           this.polisUrl.set(this.sanitizer.bypassSecurityTrustResourceUrl(url));
+
+          // Try a lightweight existence check (may fail if the remote server blocks CORS).
+          // If the check succeeds and returns OK, automatically show the Pol.is iframe.
+          this.checkPolisExists(url).then(exists => {
+            if (exists) this.showPolis.set(true);
+          });
         }
       },
       error: () => {
@@ -40,5 +49,19 @@ export class PropositionPage {
         this.bodyHtml.set(null);
       }
     });
+  }
+
+  protected forceShowPolis() {
+    this.showPolis.set(true);
+  }
+
+  private async checkPolisExists(url: string): Promise<boolean> {
+    try {
+      const res = await fetch(url, { method: 'HEAD', mode: 'cors', cache: 'no-cache' });
+      return res.ok;
+    } catch (e) {
+      // Could be a CORS restriction or network issue — default to hiding the iframe.
+      return false;
+    }
   }
 }

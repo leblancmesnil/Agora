@@ -1,16 +1,3 @@
----
-id: 121
-titre: "Clauses d'insertion dans les marchés publics"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "insertion", "marchés-publics", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-121"
-statut: "publiée"
----
-
 # Clauses d'insertion dans les marchés publics
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

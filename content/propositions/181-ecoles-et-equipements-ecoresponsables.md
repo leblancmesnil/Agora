@@ -1,16 +1,3 @@
----
-id: 181
-titre: "Écoles et équipements écoresponsables"
-categorie: "Écologie, cadre de vie et protection animale"
-categorie_id: 13
-icone: "🌿"
-tags: ["écologie", "école", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-181"
-statut: "publiée"
----
-
 # Écoles et équipements écoresponsables
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

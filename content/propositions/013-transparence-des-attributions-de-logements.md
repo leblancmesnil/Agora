@@ -1,16 +1,3 @@
----
-id: 13
-titre: "Transparence des attributions de logements"
-categorie: "Logement et urbanisme"
-categorie_id: 2
-icone: "🏠"
-tags: ["transparence", "logement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-013"
-statut: "publiée"
----
-
 # Transparence des attributions de logements
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

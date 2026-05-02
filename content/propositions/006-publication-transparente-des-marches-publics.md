@@ -1,16 +1,3 @@
----
-id: 6
-titre: "Publication transparente des marchés publics"
-categorie: "Gouvernance, éthique et exemplarité"
-categorie_id: 1
-icone: "🏛️"
-tags: ["transparence", "marchés-publics", "gouvernance", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-006"
-statut: "publiée"
----
-
 # Publication transparente des marchés publics
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

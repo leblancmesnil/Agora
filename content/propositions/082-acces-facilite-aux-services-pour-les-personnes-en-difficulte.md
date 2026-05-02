@@ -1,16 +1,3 @@
----
-id: 82
-titre: "Accès facilité aux services pour les personnes en difficulté"
-categorie: "Solidarité, action sociale et famille"
-categorie_id: 6
-icone: "🤝"
-tags: ["solidarité", "services", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-082"
-statut: "publiée"
----
-
 # Accès facilité aux services pour les personnes en difficulté
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

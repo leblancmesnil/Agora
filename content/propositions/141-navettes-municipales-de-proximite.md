@@ -1,16 +1,3 @@
----
-id: 141
-titre: "Navettes municipales de proximité"
-categorie: "Mobilités et transports"
-categorie_id: 10
-icone: "🚌"
-tags: ["mobilité", "proximité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-141"
-statut: "publiée"
----
-
 # Navettes municipales de proximité
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

@@ -1,16 +1,3 @@
----
-id: 63
-titre: "Formation des agents municipaux"
-categorie: "Égalité, lutte contre les discriminations"
-categorie_id: 5
-icone: "⚖️"
-tags: ["égalité", "formation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-063"
-statut: "publiée"
----
-
 # Formation des agents municipaux
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

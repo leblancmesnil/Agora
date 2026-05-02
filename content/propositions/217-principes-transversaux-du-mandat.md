@@ -1,16 +1,3 @@
----
-id: 217
-titre: "Principes transversaux du mandat"
-categorie: "Gouvernance, éthique et exemplarité"
-categorie_id: 1
-icone: "🏛️"
-tags: ["gouvernance", "méthode", "transversal"]
-auteur: "Daniel M"
-date: "2026-03-22"
-polisId: "93150-217"
-statut: "publiée"
----
-
 # Principes transversaux du mandat
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

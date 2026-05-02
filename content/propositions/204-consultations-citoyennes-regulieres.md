@@ -1,16 +1,3 @@
----
-id: 204
-titre: "Consultations citoyennes régulières"
-categorie: "Démocratie locale, finances et transparence"
-categorie_id: 15
-icone: "🗳️"
-tags: ["démocratie", "participation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-204"
-statut: "publiée"
----
-
 # Consultations citoyennes régulières
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

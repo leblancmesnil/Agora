@@ -1,16 +1,3 @@
----
-id: 202
-titre: "Conseils de quartier dotés de moyens réels"
-categorie: "Démocratie locale, finances et transparence"
-categorie_id: 15
-icone: "🗳️"
-tags: ["démocratie", "quartier", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-202"
-statut: "publiée"
----
-
 # Conseils de quartier dotés de moyens réels
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

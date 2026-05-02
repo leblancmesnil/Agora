@@ -1,16 +1,3 @@
----
-id: 107
-titre: "Accès facilité au logement des jeunes"
-categorie: "Jeunesse, insertion et émancipation"
-categorie_id: 8
-icone: "🚀"
-tags: ["jeunesse", "logement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-107"
-statut: "publiée"
----
-
 # Accès facilité au logement des jeunes
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

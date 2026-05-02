@@ -1,16 +1,3 @@
----
-id: 158
-titre: "Valorisation du bénévolat"
-categorie: "Culture, sport et vie associative"
-categorie_id: 11
-icone: "🎭"
-tags: ["associations", "engagement", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-158"
-statut: "publiée"
----
-
 # Valorisation du bénévolat
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

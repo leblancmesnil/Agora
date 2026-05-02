@@ -1,16 +1,3 @@
----
-id: 146
-titre: "Conventions pluriannuelles de partenariat"
-categorie: "Culture, sport et vie associative"
-categorie_id: 11
-icone: "🎭"
-tags: ["culture", "associations", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-146"
-statut: "publiée"
----
-
 # Conventions pluriannuelles de partenariat
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

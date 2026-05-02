@@ -1,16 +1,3 @@
----
-id: 99
-titre: "Participation des élèves à la vie scolaire"
-categorie: "Enfance et éducation"
-categorie_id: 7
-icone: "📚"
-tags: ["éducation", "participation", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-099"
-statut: "publiée"
----
-
 # Participation des élèves à la vie scolaire
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

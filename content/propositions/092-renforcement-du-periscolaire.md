@@ -1,16 +1,3 @@
----
-id: 92
-titre: "Renforcement du périscolaire"
-categorie: "Enfance et éducation"
-categorie_id: 7
-icone: "📚"
-tags: ["éducation", "périscolaire", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-092"
-statut: "publiée"
----
-
 # Renforcement du périscolaire
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

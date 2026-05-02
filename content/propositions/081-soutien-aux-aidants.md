@@ -1,16 +1,3 @@
----
-id: 81
-titre: "Soutien aux aidants"
-categorie: "Solidarité, action sociale et famille"
-categorie_id: 6
-icone: "🤝"
-tags: ["solidarité", "aidants", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-081"
-statut: "publiée"
----
-
 # Soutien aux aidants
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

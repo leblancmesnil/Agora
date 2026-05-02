@@ -1,16 +1,3 @@
----
-id: 41
-titre: "Prévention du décrochage et de la délinquance"
-categorie: "Sécurité, prévention et tranquillité publique"
-categorie_id: 3
-icone: "🛡️"
-tags: ["sécurité", "prévention", "jeunesse", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-041"
-statut: "publiée"
----
-
 # Prévention du décrochage et de la délinquance
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

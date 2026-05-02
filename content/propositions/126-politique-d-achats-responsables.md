@@ -1,16 +1,3 @@
----
-id: 126
-titre: "Politique d'achats responsables"
-categorie: "Emploi, entrepreneuriat et commerce local"
-categorie_id: 9
-icone: "💼"
-tags: ["emploi", "écologie", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-126"
-statut: "publiée"
----
-
 # Politique d'achats responsables
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.

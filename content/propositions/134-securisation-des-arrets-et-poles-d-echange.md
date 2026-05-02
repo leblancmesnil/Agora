@@ -1,16 +1,3 @@
----
-id: 134
-titre: "Sécurisation des arrêts et pôles d'échange"
-categorie: "Mobilités et transports"
-categorie_id: 10
-icone: "🚌"
-tags: ["mobilité", "sécurité", "programme"]
-auteur: "Équipe municipale"
-date: "2026-03-22"
-polisId: "93150-134"
-statut: "publiée"
----
-
 # Sécurisation des arrêts et pôles d'échange
 
 > Proposition issue du programme municipal pour la ville du Blanc-Mesnil.
