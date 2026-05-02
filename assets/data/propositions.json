@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-02T08:51:10.771Z",
+    "generatedAt": "2026-05-02T10:17:15.188Z",
     "count": 220
   },
   "categories": [
@@ -220,7 +220,7 @@
       ],
       "auteur": "Équipe municipale",
       "date": "2026-03-22",
-      "polisId": "93150-002",
+      "polisId": "7jypdmmhzu",
       "statut": "publiée",
       "slug": "002-bilans-annuels-citoyens-par-quartier"
     },
@@ -3871,10 +3871,9 @@
         "urbanisme",
         "culture",
         "économie",
-        "ZAC",
-        "programme"
+        "ZAC"
       ],
-      "auteur": "Équipe municipale",
+      "auteur": "Daniel M",
       "date": "2026-03-22",
       "polisId": "93150-214",
       "statut": "publiée",
@@ -3891,10 +3890,9 @@
         "urbanisme",
         "logement",
         "culture",
-        "associations",
-        "programme"
+        "associations"
       ],
-      "auteur": "Équipe municipale",
+      "auteur": "Daniel M",
       "date": "2026-03-22",
       "polisId": "93150-215",
       "statut": "publiée",
@@ -3910,10 +3908,9 @@
         "numérique",
         "gouvernance",
         "transparence",
-        "outils",
-        "programme"
+        "outils"
       ],
-      "auteur": "Équipe municipale",
+      "auteur": "Daniel M",
       "date": "2026-03-22",
       "polisId": "93150-216",
       "statut": "publiée",
@@ -3946,10 +3943,9 @@
         "pouvoir-d-achat",
         "solidarité",
         "budget",
-        "transversal",
-        "programme"
+        "transversal"
       ],
-      "auteur": "Équipe municipale",
+      "auteur": "Daniel M",
       "date": "2026-03-22",
       "polisId": "93150-218",
       "statut": "publiée",
@@ -3964,10 +3960,9 @@
       "tags": [
         "gouvernance",
         "100-jours",
-        "calendrier",
-        "programme"
+        "calendrier"
       ],
-      "auteur": "Équipe municipale",
+      "auteur": "Daniel M",
       "date": "2026-03-22",
       "polisId": "93150-219",
       "statut": "publiée",
