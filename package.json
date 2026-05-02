@@ -7,6 +7,7 @@
     "prestart": "node scripts/build-propositions.js",
     "start": "ng serve",
     "build": "ng build",
+    "deploy": "ng build && npx gh-pages -d dist/Programme/browser",
     "build:propositions": "node scripts/build-propositions.js",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
