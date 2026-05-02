@@ -1,0 +1,320 @@
+/**
+ * Extract existing measures from the programme and generate markdown proposition files.
+ * Run once to seed the content/propositions/ folder.
+ */
+const fs = require('fs');
+const path = require('path');
+
+const OUTPUT_DIR = path.join(__dirname, '..', 'content', 'propositions');
+
+const CATEGORIES = [
+  { id: 1, titre: 'Gouvernance, éthique et exemplarité', icone: '🏛️', slug: 'gouvernance' },
+  { id: 2, titre: 'Logement et urbanisme', icone: '🏠', slug: 'logement' },
+  { id: 3, titre: 'Sécurité, prévention et tranquillité publique', icone: '🛡️', slug: 'securite' },
+  { id: 4, titre: 'Santé et accès aux soins', icone: '🏥', slug: 'sante' },
+  { id: 5, titre: 'Égalité, lutte contre les discriminations', icone: '⚖️', slug: 'egalite' },
+  { id: 6, titre: 'Solidarité, action sociale et famille', icone: '🤝', slug: 'solidarite' },
+  { id: 7, titre: 'Enfance et éducation', icone: '📚', slug: 'education' },
+  { id: 8, titre: 'Jeunesse, insertion et émancipation', icone: '🚀', slug: 'jeunesse' },
+  { id: 9, titre: 'Emploi, entrepreneuriat et commerce local', icone: '💼', slug: 'emploi' },
+  { id: 10, titre: 'Mobilités et transports', icone: '🚌', slug: 'mobilites' },
+  { id: 11, titre: 'Culture, sport et vie associative', icone: '🎭', slug: 'culture' },
+  { id: 12, titre: 'Seniors, handicap et intergénérationnel', icone: '👴', slug: 'seniors' },
+  { id: 13, titre: 'Écologie, cadre de vie et protection animale', icone: '🌿', slug: 'ecologie' },
+  { id: 14, titre: 'Prévention des risques et résilience', icone: '⚠️', slug: 'resilience' },
+  { id: 15, titre: 'Démocratie locale, finances et transparence', icone: '🗳️', slug: 'democratie' },
+];
+
+const MESURES = [
+  // Chapitre 1 - Gouvernance
+  { id: 1, titre: 'Suivi public des engagements', categorie: 1, tags: ['transparence', 'numérique', 'gouvernance'] },
+  { id: 2, titre: 'Bilans annuels citoyens par quartier', categorie: 1, tags: ['participation', 'quartier', 'gouvernance'] },
+  { id: 3, titre: 'Transparence budgétaire renforcée', categorie: 1, tags: ['transparence', 'finances', 'gouvernance'] },
+  { id: 4, titre: 'Charte éthique des élus municipaux', categorie: 1, tags: ['éthique', 'gouvernance'] },
+  { id: 5, titre: 'Participation citoyenne permanente', categorie: 1, tags: ['participation', 'démocratie', 'gouvernance'] },
+  { id: 6, titre: 'Publication transparente des marchés publics', categorie: 1, tags: ['transparence', 'marchés-publics', 'gouvernance'] },
+  { id: 7, titre: 'Droit d\'interpellation citoyenne', categorie: 1, tags: ['participation', 'démocratie', 'gouvernance'] },
+  { id: 8, titre: 'Conseils municipaux ouverts et compréhensibles', categorie: 1, tags: ['transparence', 'démocratie', 'gouvernance'] },
+  { id: 9, titre: 'Comité citoyen des grands projets', categorie: 1, tags: ['participation', 'projets', 'gouvernance'] },
+  { id: 10, titre: 'Plan pluriannuel d\'investissement transparent', categorie: 1, tags: ['transparence', 'finances', 'gouvernance'] },
+  { id: 11, titre: 'Formation continue des élus et des cadres', categorie: 1, tags: ['formation', 'gouvernance'] },
+  { id: 12, titre: 'Évaluation indépendante à mi-mandat', categorie: 1, tags: ['évaluation', 'gouvernance'] },
+  // Chapitre 2 - Logement
+  { id: 13, titre: 'Transparence des attributions de logements', categorie: 2, tags: ['transparence', 'logement'] },
+  { id: 14, titre: 'Commission municipale renforcée du logement', categorie: 2, tags: ['logement', 'gouvernance'] },
+  { id: 15, titre: 'Guichet unique du logement', categorie: 2, tags: ['logement', 'services'] },
+  { id: 16, titre: 'Suivi personnalisé des dossiers', categorie: 2, tags: ['logement', 'services'] },
+  { id: 17, titre: 'Régulation du marché locatif', categorie: 2, tags: ['logement', 'économie'] },
+  { id: 18, titre: 'Audit du parc immobilier dégradé', categorie: 2, tags: ['logement', 'rénovation'] },
+  { id: 19, titre: 'Audit des constructions massives', categorie: 2, tags: ['logement', 'urbanisme'] },
+  { id: 20, titre: 'Plan prioritaire des ascenseurs et parties communes', categorie: 2, tags: ['logement', 'rénovation'] },
+  { id: 21, titre: 'Programme municipal de rénovation énergétique', categorie: 2, tags: ['logement', 'énergie', 'écologie'] },
+  { id: 22, titre: 'Cellule de lutte contre l\'habitat indigne', categorie: 2, tags: ['logement', 'sécurité'] },
+  { id: 23, titre: 'Dispositif de relogement d\'urgence', categorie: 2, tags: ['logement', 'urgence'] },
+  { id: 24, titre: 'Plan grand froid', categorie: 2, tags: ['logement', 'urgence', 'solidarité'] },
+  { id: 25, titre: 'Charte municipale des promoteurs', categorie: 2, tags: ['logement', 'urbanisme'] },
+  { id: 26, titre: 'Conseil municipal des syndicats de copropriétaires', categorie: 2, tags: ['logement', 'copropriété'] },
+  { id: 27, titre: 'Révision concertée du Plan Local d\'Urbanisme', categorie: 2, tags: ['urbanisme', 'participation'] },
+  { id: 28, titre: 'Accompagnement des nouvelles stations de métro (Grand Paris Express)', categorie: 2, tags: ['urbanisme', 'transport', 'grand-paris'] },
+  { id: 29, titre: 'Dynamisation des places et espaces urbains', categorie: 2, tags: ['urbanisme', 'cadre-de-vie'] },
+  // Chapitre 3 - Sécurité
+  { id: 30, titre: 'Renforcement de la police municipale', categorie: 3, tags: ['sécurité', 'police'] },
+  { id: 31, titre: 'Déploiement des patrouilles de proximité', categorie: 3, tags: ['sécurité', 'proximité'] },
+  { id: 32, titre: 'Formation renforcée à la médiation', categorie: 3, tags: ['sécurité', 'médiation', 'formation'] },
+  { id: 33, titre: 'Coordination renforcée avec la police nationale', categorie: 3, tags: ['sécurité', 'coordination'] },
+  { id: 34, titre: 'Plan municipal d\'éclairage public', categorie: 3, tags: ['sécurité', 'éclairage', 'cadre-de-vie'] },
+  { id: 35, titre: 'Sécurisation des abords scolaires', categorie: 3, tags: ['sécurité', 'école', 'enfance'] },
+  { id: 36, titre: 'Réseau de médiateurs de quartier', categorie: 3, tags: ['sécurité', 'médiation', 'quartier'] },
+  { id: 37, titre: 'Point municipal d\'écoute et d\'accompagnement', categorie: 3, tags: ['sécurité', 'accompagnement'] },
+  { id: 38, titre: 'Plan local contre les violences faites aux femmes', categorie: 3, tags: ['sécurité', 'égalité', 'femmes'] },
+  { id: 39, titre: 'Lutte contre les incivilités du quotidien – sécurisation des parkings', categorie: 3, tags: ['sécurité', 'incivilités'] },
+  { id: 40, titre: 'Sécurisation des halls et parties communes', categorie: 3, tags: ['sécurité', 'logement'] },
+  { id: 41, titre: 'Prévention du décrochage et de la délinquance', categorie: 3, tags: ['sécurité', 'prévention', 'jeunesse'] },
+  { id: 42, titre: 'Actions contre les conduites à risque', categorie: 3, tags: ['sécurité', 'prévention', 'santé'] },
+  { id: 43, titre: 'Bilan annuel de sécurité', categorie: 3, tags: ['sécurité', 'transparence'] },
+  // Chapitre 4 - Santé
+  { id: 44, titre: 'Maison de santé pluridisciplinaire 360', categorie: 4, tags: ['santé', 'soins', 'accès'] },
+  { id: 45, titre: 'Plan municipal d\'attractivité médicale', categorie: 4, tags: ['santé', 'médecins'] },
+  { id: 46, titre: 'Déploiement de cabinets de proximité', categorie: 4, tags: ['santé', 'proximité'] },
+  { id: 47, titre: 'Mutuelle communale', categorie: 4, tags: ['santé', 'solidarité', 'pouvoir-achat'] },
+  { id: 48, titre: 'Accueil structuré des jeunes professionnels de santé', categorie: 4, tags: ['santé', 'jeunesse'] },
+  { id: 49, titre: 'Partenariats durables avec les hôpitaux et universités', categorie: 4, tags: ['santé', 'partenariats'] },
+  { id: 50, titre: 'Déploiement de centres de dépistage mobiles', categorie: 4, tags: ['santé', 'prévention'] },
+  { id: 51, titre: 'Programme municipal de prévention santé', categorie: 4, tags: ['santé', 'prévention'] },
+  { id: 52, titre: 'Dispositif local de santé mentale', categorie: 4, tags: ['santé', 'santé-mentale'] },
+  { id: 53, titre: 'Parcours d\'accompagnement des maladies chroniques', categorie: 4, tags: ['santé', 'accompagnement'] },
+  { id: 54, titre: 'Plan local de lutte contre les addictions', categorie: 4, tags: ['santé', 'prévention', 'addictions'] },
+  { id: 55, titre: 'Développement encadré de la télémédecine', categorie: 4, tags: ['santé', 'numérique'] },
+  { id: 56, titre: 'Information claire et continue sur l\'offre de soins', categorie: 4, tags: ['santé', 'information'] },
+  { id: 57, titre: 'Soutien structuré aux aidants familiaux', categorie: 4, tags: ['santé', 'aidants', 'solidarité'] },
+  { id: 58, titre: 'Observatoire municipal de la santé', categorie: 4, tags: ['santé', 'données'] },
+  // Chapitre 5 - Égalité
+  { id: 59, titre: 'Plan municipal pour l\'égalité femmes-hommes', categorie: 5, tags: ['égalité', 'femmes'] },
+  { id: 60, titre: 'Cellule municipale de lutte contre les violences faites aux femmes', categorie: 5, tags: ['égalité', 'femmes', 'sécurité'] },
+  { id: 61, titre: 'Parcours d\'accompagnement global des victimes', categorie: 5, tags: ['égalité', 'accompagnement'] },
+  { id: 62, titre: 'Renforcement des lieux d\'accueil sécurisés', categorie: 5, tags: ['égalité', 'sécurité'] },
+  { id: 63, titre: 'Formation des agents municipaux', categorie: 5, tags: ['égalité', 'formation'] },
+  { id: 64, titre: 'Dispositif municipal contre le harcèlement scolaire', categorie: 5, tags: ['égalité', 'école', 'harcèlement'] },
+  { id: 65, titre: 'Lutte contre le cyber-harcèlement', categorie: 5, tags: ['égalité', 'numérique', 'harcèlement'] },
+  { id: 66, titre: 'Prévention des discriminations à l\'emploi et au logement', categorie: 5, tags: ['égalité', 'emploi', 'logement'] },
+  { id: 67, titre: 'Observatoire local des discriminations', categorie: 5, tags: ['égalité', 'données'] },
+  { id: 68, titre: 'Soutien renforcé aux associations spécialisées', categorie: 5, tags: ['égalité', 'associations'] },
+  { id: 69, titre: 'Accès prioritaire au logement pour les victimes', categorie: 5, tags: ['égalité', 'logement'] },
+  { id: 70, titre: 'Campagnes municipales de sensibilisation', categorie: 5, tags: ['égalité', 'sensibilisation'] },
+  { id: 71, titre: 'Espaces de parole pour les jeunes', categorie: 5, tags: ['égalité', 'jeunesse'] },
+  { id: 72, titre: 'Promotion de l\'égalité dans les équipements municipaux', categorie: 5, tags: ['égalité'] },
+  { id: 73, titre: 'Bilan annuel égalité et protection', categorie: 5, tags: ['égalité', 'transparence'] },
+  // Chapitre 6 - Solidarité
+  { id: 74, titre: 'CCAS renforcé et plus proche', categorie: 6, tags: ['solidarité', 'social', 'proximité'] },
+  { id: 75, titre: 'Guichet social unique et orientation rapide', categorie: 6, tags: ['solidarité', 'services'] },
+  { id: 76, titre: 'Tarification sociale plus juste', categorie: 6, tags: ['solidarité', 'pouvoir-achat'] },
+  { id: 77, titre: 'Plan municipal de lutte contre la précarité énergétique', categorie: 6, tags: ['solidarité', 'énergie', 'pouvoir-achat'] },
+  { id: 78, titre: 'Accès renforcé à l\'aide alimentaire et aux droits', categorie: 6, tags: ['solidarité', 'alimentation'] },
+  { id: 79, titre: 'Soutien aux familles monoparentales', categorie: 6, tags: ['solidarité', 'famille'] },
+  { id: 80, titre: 'Dispositif municipal de lutte contre l\'isolement', categorie: 6, tags: ['solidarité', 'isolement'] },
+  { id: 81, titre: 'Soutien aux aidants', categorie: 6, tags: ['solidarité', 'aidants'] },
+  { id: 82, titre: 'Accès facilité aux services pour les personnes en difficulté', categorie: 6, tags: ['solidarité', 'services'] },
+  { id: 83, titre: 'Plan municipal « Enfance et familles »', categorie: 6, tags: ['solidarité', 'famille', 'enfance'] },
+  { id: 84, titre: 'Solidarité de proximité en cas de crise', categorie: 6, tags: ['solidarité', 'urgence'] },
+  { id: 85, titre: 'Bilan annuel de l\'action sociale', categorie: 6, tags: ['solidarité', 'transparence'] },
+  // Chapitre 7 - Éducation
+  { id: 86, titre: 'Maisons d\'assistantes maternelles (MAM)', categorie: 7, tags: ['éducation', 'petite-enfance'] },
+  { id: 87, titre: 'Plan global de rénovation des écoles', categorie: 7, tags: ['éducation', 'rénovation', 'école'] },
+  { id: 88, titre: 'Campus trilingue (audit + trajectoire)', categorie: 7, tags: ['éducation', 'excellence', 'langues'] },
+  { id: 89, titre: 'Équipement numérique équitable', categorie: 7, tags: ['éducation', 'numérique'] },
+  { id: 90, titre: 'Restauration scolaire', categorie: 7, tags: ['éducation', 'alimentation', 'école'] },
+  { id: 91, titre: 'Accompagnement éducatif de proximité', categorie: 7, tags: ['éducation', 'quartier'] },
+  { id: 92, titre: 'Renforcement du périscolaire', categorie: 7, tags: ['éducation', 'périscolaire'] },
+  { id: 93, titre: 'Ouverture des centres de loisirs le samedi', categorie: 7, tags: ['éducation', 'loisirs'] },
+  { id: 94, titre: 'Lutte contre le décrochage scolaire', categorie: 7, tags: ['éducation', 'prévention'] },
+  { id: 95, titre: 'Réouverture de « La Barre-de-Monts »', categorie: 7, tags: ['éducation', 'loisirs'] },
+  { id: 96, titre: 'Soutien à la parentalité', categorie: 7, tags: ['éducation', 'famille'] },
+  { id: 97, titre: 'Prévention des inégalités éducatives', categorie: 7, tags: ['éducation', 'égalité'] },
+  { id: 98, titre: 'Promotion de la lecture et de la culture', categorie: 7, tags: ['éducation', 'culture'] },
+  { id: 99, titre: 'Participation des élèves à la vie scolaire', categorie: 7, tags: ['éducation', 'participation'] },
+  { id: 100, titre: 'Bilan annuel éducatif', categorie: 7, tags: ['éducation', 'transparence'] },
+  // Chapitre 8 - Jeunesse
+  { id: 101, titre: 'Programme « Les Ambassadeurs »', categorie: 8, tags: ['jeunesse', 'excellence'] },
+  { id: 102, titre: 'Plan mentorat', categorie: 8, tags: ['jeunesse', 'mentorat'] },
+  { id: 103, titre: 'Conseil municipal des jeunes', categorie: 8, tags: ['jeunesse', 'démocratie'] },
+  { id: 104, titre: 'Accompagnement individualisé des 16-25 ans', categorie: 8, tags: ['jeunesse', 'insertion'] },
+  { id: 105, titre: 'Espaces jeunesse de proximité', categorie: 8, tags: ['jeunesse', 'quartier'] },
+  { id: 106, titre: 'Soutien aux projets portés par les jeunes', categorie: 8, tags: ['jeunesse', 'projets'] },
+  { id: 107, titre: 'Accès facilité au logement des jeunes', categorie: 8, tags: ['jeunesse', 'logement'] },
+  { id: 108, titre: 'Aide à la mobilité des jeunes', categorie: 8, tags: ['jeunesse', 'mobilité'] },
+  { id: 109, titre: 'Prévention des ruptures de parcours', categorie: 8, tags: ['jeunesse', 'prévention'] },
+  { id: 110, titre: 'Promotion de l\'engagement citoyen', categorie: 8, tags: ['jeunesse', 'engagement'] },
+  { id: 111, titre: 'Développement du volontariat local', categorie: 8, tags: ['jeunesse', 'engagement'] },
+  { id: 112, titre: 'Soutien à l\'entrepreneuriat jeune', categorie: 8, tags: ['jeunesse', 'emploi'] },
+  { id: 113, titre: 'Lutte contre les discriminations à l\'insertion', categorie: 8, tags: ['jeunesse', 'égalité'] },
+  { id: 114, titre: 'Information renforcée sur les droits des jeunes', categorie: 8, tags: ['jeunesse', 'information'] },
+  { id: 115, titre: 'Bilan annuel jeunesse et insertion', categorie: 8, tags: ['jeunesse', 'transparence'] },
+  // Chapitre 9 - Emploi
+  { id: 116, titre: 'Maison de l\'emploi et de l\'entrepreneuriat', categorie: 9, tags: ['emploi', 'entrepreneuriat'] },
+  { id: 117, titre: 'Salles municipales pour les entrepreneurs / coworking', categorie: 9, tags: ['emploi', 'coworking'] },
+  { id: 118, titre: 'Fonds municipal de soutien à la création', categorie: 9, tags: ['emploi', 'financement'] },
+  { id: 119, titre: 'Incubateur de projets locaux', categorie: 9, tags: ['emploi', 'entrepreneuriat'] },
+  { id: 120, titre: 'Plateforme locale de recrutement', categorie: 9, tags: ['emploi', 'numérique'] },
+  { id: 121, titre: 'Clauses d\'insertion dans les marchés publics', categorie: 9, tags: ['emploi', 'insertion', 'marchés-publics'] },
+  { id: 122, titre: 'Accompagnement des reconversions professionnelles', categorie: 9, tags: ['emploi', 'formation'] },
+  { id: 123, titre: 'Concours de création d\'entreprise', categorie: 9, tags: ['emploi', 'entrepreneuriat'] },
+  { id: 124, titre: 'Lutte contre la vacance commerciale', categorie: 9, tags: ['emploi', 'commerce'] },
+  { id: 125, titre: 'Animation commerciale territoriale', categorie: 9, tags: ['emploi', 'commerce'] },
+  { id: 126, titre: 'Politique d\'achats responsables', categorie: 9, tags: ['emploi', 'écologie'] },
+  { id: 127, titre: 'Soutien à l\'économie sociale et solidaire', categorie: 9, tags: ['emploi', 'solidarité'] },
+  { id: 128, titre: 'Développement de l\'apprentissage local', categorie: 9, tags: ['emploi', 'formation'] },
+  { id: 129, titre: 'Forums emploi et entrepreneuriat annuels', categorie: 9, tags: ['emploi', 'événements'] },
+  { id: 130, titre: 'Observatoire local de l\'emploi', categorie: 9, tags: ['emploi', 'données'] },
+  // Chapitre 10 - Mobilités
+  { id: 131, titre: 'Gratuité des transports pour les mineurs (remboursement Imagin\'R)', categorie: 10, tags: ['mobilité', 'jeunesse', 'pouvoir-achat'] },
+  { id: 132, titre: 'Aide à la mobilité pour les publics fragiles', categorie: 10, tags: ['mobilité', 'solidarité'] },
+  { id: 133, titre: 'Négociation pour l\'amélioration de l\'offre de transport', categorie: 10, tags: ['mobilité', 'transports-commun'] },
+  { id: 134, titre: 'Sécurisation des arrêts et pôles d\'échange', categorie: 10, tags: ['mobilité', 'sécurité'] },
+  { id: 135, titre: 'Plan municipal vélo', categorie: 10, tags: ['mobilité', 'vélo', 'écologie'] },
+  { id: 136, titre: 'Stationnements vélos et trottinettes sécurisés', categorie: 10, tags: ['mobilité', 'vélo'] },
+  { id: 137, titre: 'Aide à l\'achat de vélos et vélos électriques', categorie: 10, tags: ['mobilité', 'vélo', 'pouvoir-achat'] },
+  { id: 138, titre: 'Plan de circulation concerté', categorie: 10, tags: ['mobilité', 'urbanisme'] },
+  { id: 139, titre: 'Gestion intelligente du stationnement municipal', categorie: 10, tags: ['mobilité', 'numérique'] },
+  { id: 140, titre: 'Rénovation des trottoirs et des voiries dégradées', categorie: 10, tags: ['mobilité', 'cadre-de-vie', 'rénovation'] },
+  { id: 141, titre: 'Navettes municipales de proximité', categorie: 10, tags: ['mobilité', 'proximité'] },
+  { id: 142, titre: 'Accessibilité universelle des transports', categorie: 10, tags: ['mobilité', 'handicap'] },
+  { id: 143, titre: 'Bilan annuel des mobilités', categorie: 10, tags: ['mobilité', 'transparence'] },
+  // Chapitre 11 - Culture
+  { id: 144, titre: 'Maison des associations renforcée', categorie: 11, tags: ['culture', 'associations'] },
+  { id: 145, titre: 'Simplification et transparence des subventions', categorie: 11, tags: ['culture', 'associations', 'transparence'] },
+  { id: 146, titre: 'Conventions pluriannuelles de partenariat', categorie: 11, tags: ['culture', 'associations'] },
+  { id: 147, titre: 'Fonds municipal pour l\'innovation associative', categorie: 11, tags: ['culture', 'associations', 'financement'] },
+  { id: 148, titre: 'Programmation culturelle de proximité', categorie: 11, tags: ['culture', 'quartier'] },
+  { id: 149, titre: 'Festival culturel et cinématographique', categorie: 11, tags: ['culture', 'événements'] },
+  { id: 150, titre: 'Soutien aux pratiques artistiques amateurs', categorie: 11, tags: ['culture', 'art'] },
+  { id: 151, titre: 'Plan de rénovation des équipements culturels – Bibliobus 2.0', categorie: 11, tags: ['culture', 'rénovation', 'lecture'] },
+  { id: 152, titre: 'Plan municipal du sport et de la culture pour tous – Pass\'Sport & Culture', categorie: 11, tags: ['culture', 'sport', 'accès'] },
+  { id: 153, titre: 'Plan « Savoir nager »', categorie: 11, tags: ['sport', 'enfance'] },
+  { id: 154, titre: 'Rénovation, entretien et création d\'équipements sportifs', categorie: 11, tags: ['sport', 'rénovation'] },
+  { id: 155, titre: 'Tarification sociale des activités sportives et culturelles', categorie: 11, tags: ['sport', 'culture', 'pouvoir-achat'] },
+  { id: 156, titre: 'Bus de la mobilité', categorie: 11, tags: ['sport', 'mobilité'] },
+  { id: 157, titre: 'Développement du sport-santé', categorie: 11, tags: ['sport', 'santé'] },
+  { id: 158, titre: 'Valorisation du bénévolat', categorie: 11, tags: ['associations', 'engagement'] },
+  { id: 159, titre: 'Blanc-Mesnil Plage', categorie: 11, tags: ['culture', 'loisirs', 'événements'] },
+  { id: 160, titre: 'Épiceries sociales et solidaires', categorie: 11, tags: ['solidarité', 'alimentation'] },
+  { id: 161, titre: 'Bilan annuel culture, sport et vie associative', categorie: 11, tags: ['culture', 'sport', 'transparence'] },
+  // Chapitre 12 - Seniors
+  { id: 162, titre: 'Maison des seniors', categorie: 12, tags: ['seniors', 'proximité'] },
+  { id: 163, titre: 'Activités seniors accessibles et tarification adaptée', categorie: 12, tags: ['seniors', 'pouvoir-achat'] },
+  { id: 164, titre: 'Renforcement des liens intergénérationnels', categorie: 12, tags: ['seniors', 'intergénérationnel'] },
+  { id: 165, titre: 'Programme municipal de lutte contre l\'isolement', categorie: 12, tags: ['seniors', 'isolement'] },
+  { id: 166, titre: 'Soutien au maintien à domicile', categorie: 12, tags: ['seniors', 'autonomie'] },
+  { id: 167, titre: 'Accessibilité renforcée des bâtiments municipaux', categorie: 12, tags: ['seniors', 'handicap', 'accessibilité'] },
+  { id: 168, titre: 'Plan « Ville inclusive » pour les personnes en situation de handicap', categorie: 12, tags: ['handicap', 'accessibilité'] },
+  { id: 169, titre: 'Référent municipal handicap', categorie: 12, tags: ['handicap'] },
+  { id: 170, titre: 'Accès prioritaire aux équipements et services', categorie: 12, tags: ['handicap', 'services'] },
+  { id: 171, titre: 'Soutien aux aidants de personnes dépendantes', categorie: 12, tags: ['seniors', 'aidants'] },
+  { id: 172, titre: 'Développement de l\'habitat adapté', categorie: 12, tags: ['seniors', 'logement', 'handicap'] },
+  { id: 173, titre: 'Projets intergénérationnels structurés', categorie: 12, tags: ['seniors', 'intergénérationnel'] },
+  { id: 174, titre: 'Lutte contre la fracture numérique des seniors', categorie: 12, tags: ['seniors', 'numérique'] },
+  { id: 175, titre: 'Participation des seniors à la vie locale', categorie: 12, tags: ['seniors', 'participation'] },
+  { id: 176, titre: 'Bilan annuel autonomie et inclusion', categorie: 12, tags: ['seniors', 'transparence'] },
+  // Chapitre 13 - Écologie
+  { id: 177, titre: 'Développement des jardins partagés de quartier', categorie: 13, tags: ['écologie', 'quartier', 'alimentation'] },
+  { id: 178, titre: 'Soutien aux collectifs de jardiniers urbains', categorie: 13, tags: ['écologie', 'associations'] },
+  { id: 179, titre: 'Plan municipal de végétalisation', categorie: 13, tags: ['écologie', 'végétalisation'] },
+  { id: 180, titre: 'Préservation des espaces verts existants', categorie: 13, tags: ['écologie', 'espaces-verts'] },
+  { id: 181, titre: 'Écoles et équipements écoresponsables', categorie: 13, tags: ['écologie', 'école'] },
+  { id: 182, titre: 'Ferme pédagogique', categorie: 13, tags: ['écologie', 'éducation'] },
+  { id: 183, titre: 'Sensibilisation à la transition écologique', categorie: 13, tags: ['écologie', 'sensibilisation'] },
+  { id: 184, titre: 'Lutte contre les nuisances environnementales', categorie: 13, tags: ['écologie', 'cadre-de-vie'] },
+  { id: 185, titre: 'Gestion responsable de l\'eau', categorie: 13, tags: ['écologie', 'eau'] },
+  { id: 186, titre: 'Mobilisation citoyenne pour la propreté', categorie: 13, tags: ['écologie', 'propreté', 'participation'] },
+  { id: 187, titre: 'Développement de l\'économie circulaire', categorie: 13, tags: ['écologie', 'économie-circulaire'] },
+  { id: 188, titre: 'Plan municipal d\'adaptation climatique', categorie: 13, tags: ['écologie', 'climat'] },
+  { id: 189, titre: 'Promotion des circuits courts alimentaires', categorie: 13, tags: ['écologie', 'alimentation'] },
+  { id: 190, titre: 'Observatoire local de l\'environnement', categorie: 13, tags: ['écologie', 'données'] },
+  { id: 191, titre: 'Bilan annuel écologique', categorie: 13, tags: ['écologie', 'transparence'] },
+  { id: 192, titre: 'Bien-être animal', categorie: 13, tags: ['écologie', 'animaux'] },
+  { id: 193, titre: 'Protection animale', categorie: 13, tags: ['écologie', 'animaux'] },
+  // Chapitre 14 - Résilience
+  { id: 194, titre: 'Création d\'un Plan Communal de Sauvegarde (PCS)', categorie: 14, tags: ['résilience', 'sécurité-civile'] },
+  { id: 195, titre: 'Création d\'un Poste de Commandement Communal (PCC)', categorie: 14, tags: ['résilience', 'sécurité-civile'] },
+  { id: 196, titre: 'Plan canicule et grand froid renforcé', categorie: 14, tags: ['résilience', 'climat', 'solidarité'] },
+  { id: 197, titre: 'Création d\'une Réserve Communale de Sécurité Civile (RCSC)', categorie: 14, tags: ['résilience', 'engagement'] },
+  { id: 198, titre: 'Plan de continuité des services publics', categorie: 14, tags: ['résilience', 'services'] },
+  { id: 199, titre: 'Formation des élus et agents à la gestion de crise', categorie: 14, tags: ['résilience', 'formation'] },
+  { id: 200, titre: 'Rédaction d\'un DICRIM', categorie: 14, tags: ['résilience', 'information'] },
+  // Chapitre 15 - Démocratie
+  { id: 201, titre: 'Budgets participatifs renforcés', categorie: 15, tags: ['démocratie', 'participation', 'finances'] },
+  { id: 202, titre: 'Conseils de quartier dotés de moyens réels', categorie: 15, tags: ['démocratie', 'quartier'] },
+  { id: 203, titre: 'Plateforme numérique de participation', categorie: 15, tags: ['démocratie', 'numérique', 'participation'] },
+  { id: 204, titre: 'Consultations citoyennes régulières', categorie: 15, tags: ['démocratie', 'participation'] },
+  { id: 205, titre: 'Maîtrise durable des dépenses', categorie: 15, tags: ['démocratie', 'finances'] },
+  { id: 206, titre: 'Recherche active de financements externes', categorie: 15, tags: ['démocratie', 'finances'] },
+  { id: 207, titre: 'Priorité à l\'investissement utile', categorie: 15, tags: ['démocratie', 'finances'] },
+  { id: 208, titre: 'Audit financier de début et mi-mandat', categorie: 15, tags: ['démocratie', 'finances', 'transparence'] },
+  { id: 209, titre: 'Lutte contre le gaspillage public', categorie: 15, tags: ['démocratie', 'finances'] },
+  { id: 210, titre: 'Charte de transparence administrative', categorie: 15, tags: ['démocratie', 'transparence'] },
+  { id: 211, titre: 'Évaluation permanente des politiques', categorie: 15, tags: ['démocratie', 'évaluation'] },
+  { id: 212, titre: 'Prime CIA', categorie: 15, tags: ['démocratie', 'administration'] },
+  { id: 213, titre: 'Rapport de fin de mandat public', categorie: 15, tags: ['démocratie', 'transparence'] },
+];
+
+function slugify(text) {
+  return text
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function generateMarkdown(mesure) {
+  const cat = CATEGORIES.find(c => c.id === mesure.categorie);
+  const slug = slugify(mesure.titre);
+  const filename = `${String(mesure.id).padStart(3, '0')}-${slug}.md`;
+
+  const frontmatter = [
+    '---',
+    `id: ${mesure.id}`,
+    `titre: "${mesure.titre}"`,
+    `categorie: "${cat.titre}"`,
+    `categorie_id: ${cat.id}`,
+    `icone: "${cat.icone}"`,
+    `tags: [${mesure.tags.map(t => `"${t}"`).join(', ')}]`,
+    `auteur: "Équipe fondatrice"`,
+    `date: "2025-01-01"`,
+    `polisId: ""`,
+    `statut: "publiée"`,
+    '---',
+    '',
+    `# ${mesure.titre}`,
+    '',
+    `> Proposition issue du programme initial pour la ville du Blanc-Mesnil.`,
+    '',
+    `## Catégorie`,
+    '',
+    `${cat.icone} ${cat.titre}`,
+    '',
+    `## Description`,
+    '',
+    `À compléter par la communauté.`,
+    '',
+    `## Discussion`,
+    '',
+    `Participez à la discussion sur cette proposition via Pol.is (lien à venir).`,
+    '',
+  ].join('\n');
+
+  return { filename, content: frontmatter };
+}
+
+// Generate all markdown files
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
+
+let count = 0;
+for (const mesure of MESURES) {
+  const { filename, content } = generateMarkdown(mesure);
+  const filepath = path.join(OUTPUT_DIR, filename);
+  fs.writeFileSync(filepath, content, 'utf-8');
+  count++;
+}
+
+console.log(`✅ ${count} propositions generated in ${OUTPUT_DIR}`);

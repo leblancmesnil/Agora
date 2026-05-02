@@ -1,0 +1,39 @@
+<!-- ── Header ── -->
+<header class="header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <div class="header-logo">
+        <img src="assets/logo.gif" alt="Logo Le Blanc-Mesnil" class="header-logo-img">
+      </div>
+      <div class="header-text">
+        <h1>Agora — Blanc-Mesnil</h1>
+        <p>Proposez, discutez, améliorez notre ville ensemble</p>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ── Navigation ── -->
+<nav class="nav-bar">
+  <div class="nav-inner">
+    <a routerLink="/agora"     routerLinkActive="active"><span class="nav-icon">🏛️</span> Propositions</a>
+    <a routerLink="/soumettre" routerLinkActive="active"><span class="nav-icon">💡</span> Soumettre</a>
+  </div>
+</nav>
+
+<!-- ── Page outlet ── -->
+<main class="main">
+  <router-outlet></router-outlet>
+</main>
+
+<!-- ── Footer ── -->
+<footer class="footer">
+  <div class="footer-inner">
+    <p>Agora — Blanc-Mesnil</p>
+    <p class="footer-sub">Collaboration · Transparence · Démocratie locale</p>
+    <a class="footer-link" href="https://github.com/leblancmesnil/agora" target="_blank" rel="noopener">
+      Contribuer sur GitHub
+    </a>
+  </div>
+</footer>
+

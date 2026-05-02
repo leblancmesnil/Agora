@@ -1,0 +1,79 @@
+<section class="agora">
+  <!-- Hero -->
+  <div class="agora-hero">
+    <h1>🏛️ Agora du Blanc-Mesnil</h1>
+    <p class="agora-subtitle">
+      Un espace collaboratif où chaque habitant·e peut proposer, discuter et améliorer
+      les idées pour notre ville. <strong>{{ filteredPropositions().length }}</strong> propositions à explorer.
+    </p>
+    <a routerLink="/soumettre" class="btn btn-primary">💡 Soumettre une proposition</a>
+  </div>
+
+  <!-- Filters -->
+  <div class="agora-filters">
+    <div class="filter-row">
+      <input
+        type="text"
+        placeholder="🔍 Rechercher une proposition..."
+        [ngModel]="searchText()"
+        (ngModelChange)="onSearch($event)"
+        class="filter-input"
+      />
+      <select (change)="onCategorieChange($event)" class="filter-select">
+        <option value="">Toutes les catégories</option>
+        @for (cat of categories(); track cat.id) {
+          <option [value]="cat.id">{{ cat.icone }} {{ cat.titre }}</option>
+        }
+      </select>
+      <select (change)="onTagChange($event)" class="filter-select">
+        <option value="">Tous les tags</option>
+        @for (tag of allTags(); track tag) {
+          <option [value]="tag">{{ tag }}</option>
+        }
+      </select>
+      <button (click)="resetFilters()" class="btn btn-secondary">Réinitialiser</button>
+    </div>
+
+    @if (selectedTag()) {
+      <div class="active-filter">
+        <span class="tag active" (click)="selectTag(selectedTag()!)">
+          {{ selectedTag() }} ✕
+        </span>
+      </div>
+    }
+  </div>
+
+  <!-- Results -->
+  @if (groupedByCategorie().length === 0) {
+    <div class="empty-state">
+      <p>Aucune proposition ne correspond à vos critères.</p>
+      <button (click)="resetFilters()" class="btn btn-secondary">Réinitialiser les filtres</button>
+    </div>
+  } @else {
+    @for (group of groupedByCategorie(); track group.categorie.id) {
+      <div class="categorie-group">
+        <h2 class="categorie-title">
+          <span class="categorie-icone">{{ group.categorie.icone }}</span>
+          {{ group.categorie.titre }}
+          <span class="categorie-count">({{ group.propositions.length }})</span>
+        </h2>
+        <div class="propositions-grid">
+          @for (prop of group.propositions; track prop.id) {
+            <a [routerLink]="['/proposition', prop.slug]" class="proposition-card">
+              <h3 class="proposition-titre">{{ prop.titre }}</h3>
+              <div class="proposition-tags">
+                @for (tag of prop.tags; track tag) {
+                  <span class="tag" (click)="selectTag(tag); $event.preventDefault(); $event.stopPropagation()">{{ tag }}</span>
+                }
+              </div>
+              <div class="proposition-meta">
+                <span class="proposition-auteur">👤 {{ prop.auteur }}</span>
+                <span class="proposition-date">📅 {{ prop.date }}</span>
+              </div>
+            </a>
+          }
+        </div>
+      </div>
+    }
+  }
+</section>
